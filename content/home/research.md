@@ -33,7 +33,7 @@ feature:
 ---
 <style>
     #research .row.featurette .col-md-12:nth-child(2) {display: none}
-   #research .row.featurette {justify-content: center}
+    #research .row.featurette {justify-content: center}
     #research .row.featurette .col-12:nth-child(3), 
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
@@ -41,4 +41,5 @@ feature:
     #research .row.featurette .col-12 .featurette-icon img {
     height: 50%;
     width: 50%}
+    #research ul {font-size: 1.0rem}
  </style>
