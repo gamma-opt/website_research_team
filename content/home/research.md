@@ -9,17 +9,9 @@ feature:
     icon_pack: fas
     name: Decision making under uncertainty
     description:
-    	- Endogenous uncertainty
-  	- Robust optimisation
-  	- Stochastic programming
-  	- Time series aggregation
   - icon: decomposition
     icon_pack: fas
     name: Decision making under uncertainty
     description: 
-    	- Endogenous uncertainty
-  	- Robust optimisation
-  	- Stochastic programming
-  	- Time series aggregation
 
 ---
