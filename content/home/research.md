@@ -38,4 +38,7 @@ feature:
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%; }
+    #research .row.featurette .col-12 .featurette-icon img {
+    height: 50%;
+    width: 50%}
  </style>
