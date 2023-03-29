@@ -31,3 +31,10 @@ feature:
     '
 
 ---
+<style>
+   #research .row.featurette {justify-content: center}
+    #research .row.featurette .col-12:nth-child(3), 
+    #research .row.featurette .col-12:nth-child(4) {
+    max-width: 100% !important;
+    flex: 0 0 50%; }
+ </style>
