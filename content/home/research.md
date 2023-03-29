@@ -5,11 +5,11 @@ widget: featurette
 weight: 15
 
 feature:
-  - icon: decision_making
+  - icon: decision_making.svg
     icon_pack: custom
     name: Decision making under uncertainty
     description:
-  - icon: decomposition
+  - icon: decomposition.svg
     icon_pack: custom
     name: Decision making under uncertainty
     description: 
