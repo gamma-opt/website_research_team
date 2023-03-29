@@ -1,13 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: features
-headless: true
-weight: 15
+title: My page
+type: landing
 
-title: Research
-subtitle:
-  
-content:
+sections:
+  - block: features
+    content:
+      title: My Interests
+      subtitle: Section subtitle
+      text: Section text
       items:
         - name: R
           description: 90%
