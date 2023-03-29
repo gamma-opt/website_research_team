@@ -3,9 +3,10 @@
 widget: features
 headless: true
 weight: 20
+title: Skills
+
 
 content:
-      title: Skills
       items:
         - name: R
           description: 90%
