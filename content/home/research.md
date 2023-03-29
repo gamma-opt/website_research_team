@@ -1,23 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: features
 headless: true
 weight: 20
 
-title: Latest News
+title: Research
 subtitle:
 
 content:
-  count: 5
-  filters:
-    author: ''
-    category: ''
-    exclude_featured: false
-    publication_type: ''
-    tag: ''
-  offset: 0
-  order: desc
-  page_type: post
+      title: Skills
+      items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas
+        - name: Photography
+          description: 10%
+          icon: camera-retro
+          icon_pack: fas
 design:
   view: 3
   columns: '1'
