@@ -9,8 +9,8 @@ feature:
     icon_pack: custom
     name: Decision making under uncertainty
     description: |2-
-    	- one
-    	- two 
+    	* one
+    	* two 
   - icon: decomposition 
     icon_pack: custom
     name: Decision making under uncertainty
