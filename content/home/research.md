@@ -4,20 +4,27 @@ title: My page
 widget: featurette 
 weight: 15
 
+[[feature]]
+  icon = "decision_making"
+  icon_pack = "custom"
+  align = "2"
+  name = "Decision making under uncertainty"
+  description = """
+  - Endogenous uncertainty
+  - Robust optimisation
+  - Stochastic programming
+  - Time series aggregation
+  """
 
-    content:
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-
+[[feature]]
+  icon = "decomposition"
+  icon_pack = "custom"
+  align = "2"
+  name = "Efficient formulations and solution methods"
+  description = """
+  - Convexification techniques
+  - Cutting planes & column generation
+  - Lagrangian-based decomposition methods
+  - Parallelisation
+  """
 ---
