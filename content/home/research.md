@@ -4,8 +4,11 @@ title: My page
 widget: featurette 
 weight: 15
 
-[[feature]]
-  name: Decision making under uncertainty
+items:
+        - name: R
+          description: 90%
+          icon: r-project
+          icon_pack: fab
 
 
 ---
