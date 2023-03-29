@@ -1,15 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 title: My page
-type: landing
-weight: 5
+widget: features
+weight: 15
 
-sections:
-  - block: features
-    content:
-      title: My Interests
-      subtitle: Section subtitle
-      text: Section text
+content:
       items:
         - name: R
           description: 90%
