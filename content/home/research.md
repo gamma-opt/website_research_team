@@ -5,19 +5,21 @@ widget: featurette
 weight: 15
 
 feature:
-  - icon: chalkboard-teacher
+  - icon: decision_making
     icon_pack: fas
-    name: Slides
-    description:
-  - icon: video
+    name: Decision making under uncertainty
+    description: |
+    	- Endogenous uncertainty
+  	- Robust optimisation
+  	- Stochastic programming
+  	- Time series aggregation
+  - icon: decomposition
     icon_pack: fas
-    name: Video
-    description:
-  - icon: code
-    icon_pack: fas
-    name: Math & Code
-    description:
-
-
+    name: Decision making under uncertainty
+    description: |
+    	- Endogenous uncertainty
+  	- Robust optimisation
+  	- Stochastic programming
+  	- Time series aggregation
 
 ---
