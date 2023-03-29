@@ -38,7 +38,7 @@ content:
         position: center
         color: '#333'
         brightness: 0.5
-        media: logo.png
+        media: welcome.jpg
       link:
         icon: graduation-cap
         icon_pack: fas
