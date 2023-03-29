@@ -4,9 +4,6 @@ widget: features
 headless: true
 weight: 20
 
-title: Research
-subtitle:
-
 content:
       title: Skills
       items:
