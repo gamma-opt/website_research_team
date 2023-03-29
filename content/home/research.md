@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 title: My page
 type: landing
+weight: 5
 
 sections:
   - block: features
