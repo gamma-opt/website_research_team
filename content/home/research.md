@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-title: My page
+title: Research topics
 widget: featurette 
 weight: 15
 
@@ -33,8 +33,6 @@ feature:
 ---
 
 <style>
- /* applications id comes from applications.md
-css selectors come from the generated html code  */
    #research .row.featurette {justify-content: center}
     #research .row.featurette .col-12:nth-child(3), 
     #research .row.featurette .col-12:nth-child(4) {
