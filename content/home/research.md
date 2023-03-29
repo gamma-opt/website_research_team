@@ -8,12 +8,12 @@ feature:
   - icon: decision_making
     icon_pack: custom
     name: Decision making under uncertainty
-    description: |-
+    description: |2-
     	- one
     	- two 
   - icon: decomposition 
     icon_pack: custom
     name: Decision making under uncertainty
-    description:  |-
+    description:  
 
 ---
