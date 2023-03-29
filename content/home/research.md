@@ -10,8 +10,11 @@ feature:
     name: Decision making under uncertainty
     description: '
    - Endogenous uncertainty
+   
    - Robust optimisation
+   
    - Stochastic programming
+   
    - Time series aggregation
     '
   - icon: decomposition 
@@ -19,8 +22,11 @@ feature:
     name: Efficient formulations and solution methods
     description: '
      - Convexification techniques
+     
      - Cutting planes & column generation
+     
     - Lagrangian-based decomposition methods
+    
     - Parallelisation
     '
 
