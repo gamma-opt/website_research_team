@@ -8,7 +8,7 @@ feature:
   - icon: decision_making
     icon_pack: fas
     name: Decision making under uncertainty
-    description: |
+    description:
     	- Endogenous uncertainty
   	- Robust optimisation
   	- Stochastic programming
@@ -16,7 +16,7 @@ feature:
   - icon: decomposition
     icon_pack: fas
     name: Decision making under uncertainty
-    description: |
+    description: 
     	- Endogenous uncertainty
   	- Robust optimisation
   	- Stochastic programming
