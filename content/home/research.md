@@ -32,7 +32,10 @@ feature:
 
 ---
 <style>
-
+	#research ul {font-size: 1.0rem}
+	#research .row.featurette .col-12 .featurette-icon img {
+   	 height: 50%;
+ 	 width: 50%}
 @media (min-width: 576px)
 {
     #research .row.featurette .col-md-12:nth-child(2) {display: none}
@@ -41,9 +44,7 @@ feature:
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%; }
-    #research .row.featurette .col-12 .featurette-icon img {
-    height: 50%;
-    width: 50%}
-    #research ul {font-size: 1.0rem}
+
+    
 }
  </style>
