@@ -5,8 +5,8 @@ widget: featurette
 weight: 15
 
 [[feature]]
-  icon = "decision_making"
-  icon_pack = "custom"
+ #icon = "decision_making"
+  #icon_pack = "custom"
   align = "2"
   name = "Decision making under uncertainty"
   description = """
@@ -17,8 +17,8 @@ weight: 15
   """
 
 [[feature]]
-  icon = "decomposition"
-  icon_pack = "custom"
+  #icon = "decomposition"
+ # icon_pack = "custom"
   align = "2"
   name = "Efficient formulations and solution methods"
   description = """
