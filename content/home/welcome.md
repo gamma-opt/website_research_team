@@ -7,8 +7,9 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Γ-opt 
-  **Group of Applied Mathematical Modelling and Optimisation**
+  **Γ-opt**
+  
+  Group of Applied Mathematical Modelling and Optimisation
 hero_media: logo.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
