@@ -10,17 +10,17 @@ feature:
     name: Renewable energy generation
     description: 
     
-  - icon: decomposition 
+  - icon: decision_making
     icon_pack: custom
     name: Healthcare and humanitarian systems
     description:
     
-  - icon: decomposition 
+  - icon: decision_making
     icon_pack: custom
     name:  Process systems planning
     description:
     
-  - icon: decomposition 
+  - icon: decision_making
     icon_pack: custom
     name: Logistics management
     description:
