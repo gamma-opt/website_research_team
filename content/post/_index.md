@@ -28,4 +28,6 @@ title: Latest News
 <style>
 /* */
 	#linkedframes iframe {height: 500px !important; width:100% !important}
+	#linkedframes div:nth-child(2n - 1){margin-bottom: 100px; padding-right: 20px}
+	#linkedframes div:nth-child(2n){margin-bottom: 100px; padding-left: 20px}
 </style>
