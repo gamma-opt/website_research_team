@@ -5,7 +5,7 @@ widget: featurette
 weight: 20
 
 feature:
-  - icon: decision_making
+  - icon: energy 
     icon_pack: custom
     name: Renewable energy generation
     description: 
