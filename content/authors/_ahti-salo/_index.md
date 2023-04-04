@@ -13,7 +13,7 @@ superuser: false
 role: 
 
 # Optional external URL for author (replaces author detail page).
-external_link: "https://research.aalto.fi/en/persons/ahti-salo"
+external_link: https://research.aalto.fi/en/persons/ahti-salo
 
 # Organizations/Affiliations
 organizations:
