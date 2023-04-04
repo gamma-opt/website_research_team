@@ -19,7 +19,7 @@ content:
   filter_button:
     - name: Current projects
       tag: current
-    - name: past projects
+    - name: Past projects
       tag: past
 
 design:
