@@ -11,7 +11,7 @@ authors:
 - Silvio Hamacher
 - Fabricio Oliveira
 tags: [Convexification techniques, Decomposition techniques]
-categories: [decomposition, energy]
+categories: [Efficient formulations and solution methods]
 keywords: '
 - Lagrangian decomposition
 - Reformulated normalised multiparametric disaggregation technique
