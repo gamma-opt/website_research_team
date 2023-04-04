@@ -1,6 +1,7 @@
 ---
 title: Decision Programming: A Stochastic Optimization Framework for Multi-Stage Decision Problems
-summary: The project will further develop the decision programming framework as a methodology for modelling and solving multi-stage decision problems under uncertainty. 
+summary: The project will further develop the decision programming framework as a methodology for modelling and solving multi-stage decision problems under uncertainty
+
 tags:
   - current
 date: 2020-09-01
