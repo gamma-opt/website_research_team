@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 feature:
   - icon: decision_making
     icon_pack: custom
-    name: Decision making under uncertainty
+    name: Modelling decision-making and uncertainty
     description: '
    - Endogenous uncertainty
    
@@ -16,11 +16,11 @@ feature:
    
    - Stochastic programming
    
-   - Time series aggregation
+   - Machine learning & surrogate modelling
     '
   - icon: decomposition 
     icon_pack: custom
-    name: Efficient formulations and solution methods
+    name: Efficient formulation and solution methods
     description: '
      - Convexification techniques
      

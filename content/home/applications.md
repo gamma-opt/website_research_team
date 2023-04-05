@@ -7,22 +7,22 @@ weight: 20
 feature:
   - icon: decision_making
     icon_pack: custom
-    name: Renewable energy generation
+    name: Energy systems
     description: 
     
   - icon: decision_making
     icon_pack: custom
-    name: Healthcare and humanitarian systems
+    name: Production and operations planning
     description:
     
   - icon: decision_making
     icon_pack: custom
-    name:  Process systems planning
+    name: Supply chain management
     description:
     
   - icon: decision_making
     icon_pack: custom
-    name: Logistics management
+    name: Humanitarian and healthcare logistics
     description:
 
 ---
