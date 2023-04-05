@@ -4,15 +4,17 @@
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 595.3 841.9"
 	 style="enable-background:new 0 0 595.3 841.9;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#00528D;}
-	.st1{fill:none;stroke:#00528D;stroke-width:20.4385;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#F4802E;stroke-width:20.4385;stroke-miterlimit:10;}
+	.st0{fill:none;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#00528D;}
+	.st2{fill:none;stroke:#00528D;stroke-width:20.4385;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#F4802E;stroke-width:20.4385;stroke-miterlimit:10;}
 </style>
-<path class="st0" d="M56.3,202.3l-27.9-56.4L0,202L56.3,202.3z"/>
-<path class="st0" d="M539,640.6l56.3,28.1L539,696.9L539,640.6L539,640.6z"/>
-<path class="st1" d="M28.2,200.4c-0.5,125.3-2,468.8-2,468.8s389.6-0.3,524.1-0.4"/>
-<path class="st2" d="M78.6,267.4l133,306.1"/>
-<path class="st2" d="M282.7,566.7l265.4-129.2"/>
-<path class="st2" d="M84.1,437.5l317.4,129.2"/>
-<path class="st2" d="M457.1,546.3l90.9-280.5"/>
+<rect id="decision_making" y="123.3" class="st0" width="595.2" height="595.2"/>
+<path class="st1" d="M59.8,209.2l-27.1-54.9L5,208.9L59.8,209.2z"/>
+<path class="st1" d="M529.2,635.5l54.8,27.3l-54.8,27.4V635.5L529.2,635.5z"/>
+<path class="st2" d="M32.4,207.4c-0.5,121.9-1.9,456-1.9,456s378.9-0.3,509.7-0.4"/>
+<path class="st3" d="M81.4,272.5l129.4,297.7"/>
+<path class="st3" d="M280,563.6L538.1,438"/>
+<path class="st3" d="M86.8,438l308.7,125.7"/>
+<path class="st3" d="M449.6,543.8L538,271"/>
 </svg>
