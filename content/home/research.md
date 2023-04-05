@@ -38,8 +38,8 @@ feature:
 	#research ul {font-size: 1.0rem}
 	/* set image size*/
 	#research .row.featurette .col-12 .featurette-icon img {
-   	 height: 300px;
- 	 width: 300px}
+   	 height: 50%;
+ 	 width: 50%}
 @media (min-width: 576px)
 {   /* remove unnecessary "grey" object that appears on the page for some reason */
     #research .row.featurette .col-md-12:nth-child(2) {display: none}
