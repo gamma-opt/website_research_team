@@ -5,22 +5,22 @@ widget: featurette
 weight: 20
 
 feature:
-  - icon: decision_making
+  - icon: energy 
     icon_pack: custom
     name: Energy systems
     description: 
     
-  - icon: decision_making
+  - icon: production
     icon_pack: custom
     name: Production and operations planning
     description:
     
-  - icon: decision_making
+  - icon: supply_hain
     icon_pack: custom
     name: Supply chain management
     description:
     
-  - icon: decision_making
+  - icon: humanitarian_logistics
     icon_pack: custom
     name: Humanitarian and healthcare logistics
     description:
