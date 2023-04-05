@@ -3,7 +3,7 @@
 title: Research topics
 widget: featurette 
 weight: 15
-headless = true  # This file represents a page section.
+headless: true  # This file represents a page section.
 
 feature:
   - icon: decision_making
