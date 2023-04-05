@@ -6,7 +6,6 @@ subtitle: ''
 summary: ''
 authors:
 - g_nikita-belyak
-- Nikita Belyak
 - Andrew Eberhard
 - Silvio Hamacher
 - Fabricio Oliveira
