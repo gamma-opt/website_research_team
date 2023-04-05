@@ -38,8 +38,8 @@ feature:
 	#research ul {font-size: 1.0rem}
 	/* set image size*/
 	#research .row.featurette .col-12 .featurette-icon img {
-   	 height: 50%;
- 	 width: 50%}
+   	 height: 300px;
+ 	 width: 300px}
 @media (min-width: 576px)
 {   /* remove unnecessary "grey" object that appears on the page for some reason */
     #research .row.featurette .col-md-12:nth-child(2) {display: none}
@@ -49,11 +49,6 @@ feature:
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%; }
-    #research .row.featurette .col-12:nth-child(3) .featurette-icon, 
-    #research .row.featurette .col-12:nth-child(4) .featurette-icon{
-    max-width: 100% !important;
-    flex: 0 0 50%; }
-
     
 }
  </style>
