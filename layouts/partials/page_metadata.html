@@ -53,10 +53,16 @@
       {{- if gt $index 0 }} {{ end -}}
       {{ if eq .Title "Decision making under uncertainty" }}
       	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/decision_making.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
-      {{ else if eq .Title "Production systems & supply chain management" }}
-      	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/images/icon-pack/production_system.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
       {{ else if eq .Title "Efficient formulations and solution methods" }}
       	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/images/icon-pack/decomposition.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
+      {{ else if eq .Title "Energy systems" }}
+      	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/energy.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
+      {{ else if eq .Title "Production and operations planning" }}
+      	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/production.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
+      {{ else if eq .Title "Supply chain management" }}
+      	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/supply_chain.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
+      {{ else if eq .Title "Humanitarian and healthcare logistics" }}
+      	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/humanitarian_logistics.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
       {{ else }}
       	<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
       {{ end }}

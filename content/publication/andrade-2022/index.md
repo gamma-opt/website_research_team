@@ -10,7 +10,7 @@ authors:
 - Silvio Hamacher
 - Fabricio Oliveira
 tags: [Convexification techniques, Decomposition techniques]
-categories: [Efficient formulations and solution methods]
+categories: [Modelling decision-making and uncertainty, Efficient formulations and solution methods, Energy systems, Production and operations planning, Supply chain management, Humanitarian and healthcare logistics]
 keywords: '
 - Lagrangian decomposition
 - Reformulated normalised multiparametric disaggregation technique
