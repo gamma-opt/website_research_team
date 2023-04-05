@@ -15,7 +15,7 @@ feature:
     name: Production and operations planning
     description:
     
-  - icon: supply_hain
+  - icon: supply_chain
     icon_pack: custom
     name: Supply chain management
     description:
