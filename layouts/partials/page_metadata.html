@@ -51,7 +51,7 @@
   <b style="font-size:16pt"> Research topics <br> </b>
     {{- range $index, $value := ($page.GetTerms $taxonomy) -}}
       {{- if gt $index 0 }} {{ end -}}
-      {{ if eq .Title "Decision making under uncertainty" }}
+      {{ if eq .Title "Modelling decision-making and uncertainty" }}
       	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/decision_making.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
       {{ else if eq .Title "Efficient formulation and solution methods" }}
       	<a href="{{ .RelPermalink }}" title={{ .Title }}><img src="/media/icons/decomposition.svg" alt={{ .LinkTitle }} width=60 height=60 vspace=10 hspace=10 style="display:inline"></a>
