@@ -15,7 +15,7 @@
   {{ end }}
   {{ end }} <!-- /modication 1 -->
 
-  {{ if not (in (slice "event" "page" "project") $page.Type) }} <!-- modication 2 -->
+  <!-- {{ if not (in (slice "event" "page" "project") $page.Type) }} <!-- modication 2 -->
   <span class="article-date">
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
     {{ if eq $page.Type "publication" }}
@@ -27,7 +27,7 @@
     {{ end }}
     {{ $date }}
   </span>
-  {{ end }}
+  {{ end }} -->
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
   <span class="middot-divider"></span>
