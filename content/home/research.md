@@ -49,6 +49,10 @@ feature:
     #research .row.featurette .col-12:nth-child(4) {
     max-width: 100% !important;
     flex: 0 0 50%; }
+    #research .row.featurette .col-12:nth-child(3) .featurette-icon, 
+    #research .row.featurette .col-12:nth-child(4) .featurette-icon{
+    max-width: 100% !important;
+    flex: 0 0 50%; }
 
     
 }
