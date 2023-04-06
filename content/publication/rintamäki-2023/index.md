@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Achieving Emission-Reduction Goals: Multi-Period Power-System Expansion under Short-Term Operational Uncertainty
+title: 'Achieving Emission-Reduction Goals: Multi-Period Power-System Expansion under Short-Term Operational Uncertainty'
 subtitle: ''
 summary: ''
 authors:
