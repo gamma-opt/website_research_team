@@ -82,7 +82,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Doctoral Candidates
-- Past Members
+- Previous Members
 ---
 
 <div style="text-align: justify">

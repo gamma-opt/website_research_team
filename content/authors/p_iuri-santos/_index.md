@@ -54,7 +54,7 @@ education:
 user_groups:
 #- Research Group
 - Visitors
-- Past Members
+- Previous Members
 ---
 
 Iuri Santos is a visiting researcher from Pontifical Catholic University of Rio de Janeiro (Brazil), where he is doing a PhD in the Operations Research area.

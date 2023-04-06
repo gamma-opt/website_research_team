@@ -17,8 +17,7 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Research Group
-    - Collaborators
-    - Past Members
+    - Previous Members
 
 design:
   show_interests: false
