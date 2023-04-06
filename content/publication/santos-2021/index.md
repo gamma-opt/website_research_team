@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A Systematic Literature review for the rig scheduling problem: Classification and state-of-the-art
+title: 'A Systematic Literature review for the rig scheduling problem: Classification and state-of-the-art'
 subtitle: ''
 summary: ''
 authors:
