@@ -1,7 +1,9 @@
 ---
 title: 'EasyDR - Enabling demand response through easy to use open source approach'
 summary: '
-- Funding period: 01.01.2022 - 31.12.2024
+- Funding organisation: Academy of Finland 
+
+- Funding period: Jan 2022 - Dec 2024
 
 - Summary: This project attempts to enable large scale flexibility of electricity consumption at the residential scale, which in turn will allow more variable power generation, such as wind power and photovoltaics, to be cost effectively integrated in the energy system. '
 

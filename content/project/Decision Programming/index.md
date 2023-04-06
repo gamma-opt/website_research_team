@@ -1,7 +1,9 @@
 ---
 title: 'Decision Programming: A Stochastic Optimization Framework for Multi-Stage Decision Problems'
 summary: '
-- Funding period: 01.09.2020 - 31.08.2024
+- Funding Organisation: Academy of Finland
+
+- Funding period: Sep 2020 - Aug 2024
 
 - Summary: The project will further develop the decision programming framework as a methodology for modelling and solving multi-stage decision problems under uncertainty'
 
