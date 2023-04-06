@@ -17,10 +17,10 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-    - name: Current projects
+    - name: Current 
       tag: current
-    - name: Past projects
-      tag: past
+    - name: Previous
+      tag: previous
 
 design:
   columns: '1'
