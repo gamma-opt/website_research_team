@@ -6,7 +6,7 @@ title: A Lagrangean decomposition approach for oil supply chain investment plann
 subtitle: ''
 summary: ''
 authors:
-- g-fabricio-oliveira
+- g_fabricio-oliveira
 - V. Gupta
 - Silvio Hamacher
 - Ignacio Grossmann
