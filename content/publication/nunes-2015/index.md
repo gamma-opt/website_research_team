@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Paula Nunes
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Silvio Hamacher
 - Ali Almansoori
 tags: [Renewable energy generation, Stochastic programming]

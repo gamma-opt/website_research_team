@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Vilma Virasjoki
 - Afzal S. Siddiqui
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Ahti Salo
 tags: [Renewable energy generation]
 categories: [Production systems & supply chain management]

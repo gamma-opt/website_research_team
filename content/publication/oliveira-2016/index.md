@@ -5,7 +5,7 @@ title: A framework for crude oil scheduling in an integrated terminal-refinery s
 subtitle: ''
 summary: ''
 authors:
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Paula Nunes
 - Rosa Blajberg
 - Silvio Hamacher

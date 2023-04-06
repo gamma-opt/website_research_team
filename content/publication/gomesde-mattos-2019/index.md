@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Roberto Gomes de Mattos
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Adriana Leiras
 - Abdon Baptista de Paula Filho
 - Paulo Gonçalves

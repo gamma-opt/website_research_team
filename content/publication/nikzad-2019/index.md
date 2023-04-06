@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Erfaneh Nikzad
 - Mahdi Bashiri
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Healthcare and humanitarian systems, Stochastic programming]
 categories: [Production systems & supply chain management, Production systems & supply chain management]
 keywords:

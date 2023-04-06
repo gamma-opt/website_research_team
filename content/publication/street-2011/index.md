@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Alexandre Street
-- Fabrício Oliveira
+- g_fabrício-oliveira
 - José M. Arroyo
 tags: [Process systems planning, Robust optimisation]
 categories: [Production systems & supply chain management, Decision making under uncertainty]

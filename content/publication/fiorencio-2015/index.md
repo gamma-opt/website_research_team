@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Luiza Fiorencio
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Paula Nunes
 - Silvio Hamacher
 tags: [Logistics management]

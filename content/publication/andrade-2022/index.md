@@ -6,10 +6,10 @@ subtitle: ''
 summary: ''
 authors:
 - Tiago Andrade
-- Nikita Belyak
+- g_nikita-belyak
 - Andrew Eberhard
 - Silvio Hamacher
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Convexification techniques, Decomposition techniques]
 categories: [Efficient formulations and solution methods]
 keywords:

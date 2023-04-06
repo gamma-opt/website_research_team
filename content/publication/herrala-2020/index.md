@@ -6,7 +6,7 @@ endogenous and exogenous uncertainties"
 subtitle: ''
 summary: ''
 authors:
-- Olli Herrala
+- g_olli-herrala
 tags: [Endogenous uncertainty, Stochastic programming]
 categories: [Decision making under uncertainty]
 keywords: []

@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Douglas Alem
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Miguel Carrión Ruiz Peinado
 tags: [Stochastic programming]
 categories: [Decision making under uncertainty]

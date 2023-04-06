@@ -5,7 +5,7 @@ title: An Exact Algorithm for the Green Vehicle Routing Problem
 subtitle: ''
 summary: ''
 authors:
-- Juho Andelmin
+- p_juho-andelmin
 - Enrico Bartolini
 tags: [Logistics management, Cutting planes & column generation]
 categories: [Production systems & supply chain management, Efficient formulations and solution methods]

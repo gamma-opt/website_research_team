@@ -6,7 +6,7 @@ title: Accelerating Benders stochastic decomposition for the optimization under 
 subtitle: ''
 summary: ''
 authors:
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Ignacio Grossmann
 - Silvio Hamacher
 tags: 

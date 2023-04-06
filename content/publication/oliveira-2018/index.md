@@ -6,7 +6,7 @@ title: Combining penalty-based and Gauss-Seidel methods for solving stochastic m
 subtitle: ''
 summary: ''
 authors:
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Jeffrey Christiansen
 - Brian Dandurand
 - Andrew Eberhard

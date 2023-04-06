@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Miguel Pérez
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Silvio Hamacher
 tags: [Logistics management]
 categories: [Production systems & supply chain management]

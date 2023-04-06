@@ -5,7 +5,7 @@ title: A multi-start local search heuristic for the Green Vehicle Routing Proble
 subtitle: ''
 summary: ''
 authors:
-- Juho Andelmin
+- p_juho-andelmin
 - Enrico Bartolini
 tags: [Logistics management]
 categories: [Production systems & supply chain management, Efficient formulations and solution methods]

@@ -6,8 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Ahti Salo
-- Juho Andelmin
-- Fabricio Oliveira
+- p_juho-andelmin
+- g_fabricio-oliveira
 tags: [Endogenous uncertainty]
 categories: [Decision making under uncertainty]
 keywords: 

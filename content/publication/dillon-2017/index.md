@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Mary Dillon
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Babak Abbasi
 tags: [Healthcare and humanitarian systems, Stochastic programming]
 categories: [Production systems & supply chain management, Decision making under uncertainty]

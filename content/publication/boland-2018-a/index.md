@@ -12,7 +12,7 @@ authors:
 - Andrew Eberhard
 - Jeff Linderoth
 - James Luedtke
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Lagrangian-based decomposition methods]
 categories: [Efficient formulations and solution methods]
 keywords: 

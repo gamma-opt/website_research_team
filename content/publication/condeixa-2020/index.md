@@ -3,8 +3,8 @@
 
 title: "Wasserstein-Distance-Based Temporal Clustering for Capacity-Expansion Planning in Power Systems"
 authors: 
-- Lucas Condeixa
-- Fabricio Oliveira
+- g_lucas-condeixa
+- g_fabricio-oliveira
 - Afzal Siddiqui
 date: 2020-09-07
 doi: "10.1109/SEST48500.2020.9203449"

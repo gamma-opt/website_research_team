@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Paulo Cunha
 - Fernanda Raupp
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Logistics management, Stochastic programming]
 categories: [Production systems & supply chain management, Decision making under uncertainty]
 keywords: 

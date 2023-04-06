@@ -5,7 +5,7 @@ title: Stochastic benders decomposition for the supply chain investment planning
 subtitle: ''
 summary: ''
 authors:
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Silvio Hamacher
 tags: 
 - Logistics management

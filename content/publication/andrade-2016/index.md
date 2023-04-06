@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Tiago Andrade
 - Gabriela Ribas
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Convexification techniques]
 categories: [Efficient formulations and solution methods]
 keywords: []

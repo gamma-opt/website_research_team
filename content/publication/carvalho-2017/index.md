@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Andréa Nunes Carvalho
 - Luiz Felipe Scavarda
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Process systems planning]
 categories: [Production systems & supply chain management]
 keywords: 

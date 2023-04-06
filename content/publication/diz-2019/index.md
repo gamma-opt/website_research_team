@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Gustavo Souto dos Santos Diz
 - Silvio Hamacher
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Logistics management, Robust optimisation]
 categories: [Production systems & supply chain management, Decision making under uncertainty]
 keywords:

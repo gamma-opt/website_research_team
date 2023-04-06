@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Tiago Andrade
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Silvio Hamacher
 - Andrew Eberhard
 tags: [Convexification techniques]

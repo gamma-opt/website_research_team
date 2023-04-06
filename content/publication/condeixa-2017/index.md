@@ -6,9 +6,9 @@ title: 'Disaster relief supply pre-positioning optimization: A risk analysis via
 subtitle: ''
 summary: ''
 authors:
-- Lucas Dias Condeixa
+- g_lucas-condeixa
 - Adriana Leiras
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Irineu de Brito
 tags: [Healthcare and humanitarian systems, Stochastic programming]
 categories: [Production systems & supply chain management, Decision making under uncertainty]

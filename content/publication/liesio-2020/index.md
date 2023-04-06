@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Juuso Liesiö
-- Juho Andelmin
+- p_juho-andelmin
 - Ahti Salo
 tags: []
 categories: [Decision making under uncertainty]

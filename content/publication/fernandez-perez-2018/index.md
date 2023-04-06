@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Miguel Fernández Pérez
-- Fabricio Oliveira
+- g_fabricio-oliveira
 - Silvio Hamacher
 tags: [Logistics management, Stochastic programming]
 categories: [Production systems & supply chain management, Decision making under uncertainty]

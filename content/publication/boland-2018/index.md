@@ -10,7 +10,7 @@ authors:
 - Jeffrey Christiansen
 - Brian Dandurand
 - Andrew Eberhard
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Lagrangian-based decomposition methods, Stochastic programming]
 categories: [Efficient formulations and solution methods, Decision making under uncertainty]
 keywords: 

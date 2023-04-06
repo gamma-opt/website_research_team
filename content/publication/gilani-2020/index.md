@@ -5,7 +5,7 @@ title: "Sustainable sugarcane-to-bioethanol supply chain network design: A robus
 authors: 
 - Hani Gilani
 - Hadi Sahebi
-- Fabricio Oliveira
+- g_fabricio_oliveira
 date: 2020-09-07
 doi: ""
 

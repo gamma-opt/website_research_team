@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Sidney Pereira dos Santos
 - José Eugenio Leal
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: [Process systems planning]
 categories: [Production systems & supply chain management]
 keywords: 

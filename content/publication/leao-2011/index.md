@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Raphael Riemke de Campos Cesar Leão
 - Silvio Hamacher
-- Fabrício Oliveira
+- g_fabrício-oliveira
 tags: [Renewable energy generation]
 categories: [Production systems & supply chain management]
 keywords:

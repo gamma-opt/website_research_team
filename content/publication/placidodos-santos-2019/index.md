@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Felipe Silva Placido dos Santos
-- Fabricio Oliveira
+- g_fabricio-oliveira
 tags: 
 - Logistics management
 - Stochastic programming
