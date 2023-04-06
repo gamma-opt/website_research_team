@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: A data-driven optimization model for the workover rig scheduling problem: Case study in an oil company
+title: 'A data-driven optimization model for the workover rig scheduling problem: Case study in an oil company'
 subtitle: ''
 summary: ''
 authors:
