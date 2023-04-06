@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Supporting platelet inventory management decisions: What is the effect of extending platelets’ shelf life?
+title: 'Supporting platelet inventory management decisions: What is the effect of extending platelets’ shelf life?'
 subtitle: ''
 summary: ''
 authors:
