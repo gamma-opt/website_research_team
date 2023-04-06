@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Maryam Dehghani
 - Babak Abbasi
-- g_fabricio_oliveira
+- g_fabricio-oliveira
 tags: [Healthcare and humanitarian systems, Stochastic programming]
 categories: [Production systems & supply chain management, Decision making under uncertainty]
 keywords:

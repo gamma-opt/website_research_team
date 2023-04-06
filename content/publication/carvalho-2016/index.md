@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Andréa Nunes Carvalho
-- g_fabricio_oliveira
+- g_fabricio-oliveira
 - Luiz Felipe Scavarda
 tags: [Production systems & supply chain management, Decision making under uncertainty]
 categories: [Production systems & supply chain management, Robust optimisation]
