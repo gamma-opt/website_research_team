@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["EasyDR", "Decision Programming"]
+projects: ["Decision Programming"]
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
