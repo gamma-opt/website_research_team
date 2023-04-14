@@ -30,4 +30,6 @@ title: Latest News
 	#linkedframes iframe {height: 500px !important; width:100% !important}
 	#linkedframes div:nth-child(2n - 1){margin-bottom: 100px; padding-right: 20px}
 	#linkedframes div:nth-child(2n){margin-bottom: 100px; padding-left: 20px}
+	/* remove unnecessary "grey" object that appears on the page for some reason */
+    	#research .article-style:nth-child(3) {display: none}
 </style>
