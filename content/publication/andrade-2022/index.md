@@ -13,7 +13,7 @@ authors:
 
 tags: 
 
-categories: [Modelling decision-making and uncertainty, Production and operations planning, Supply chain management]
+categories: 
 
 keywords: 
 
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Decision Programming"]
+projects: 
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
