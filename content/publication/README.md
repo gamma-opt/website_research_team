@@ -11,7 +11,8 @@
 - Humanitarian and healthcare logistics
 
 *An example how to alocate a category(ies)*
-projects: [Modelling decision-making and uncertainty, Production and operations planning, Supply chain management]
+
+categories: [Modelling decision-making and uncertainty, Production and operations planning, Supply chain management]
 
 ## or/and of the following **projects**:
 - Decision Programming
@@ -24,6 +25,7 @@ projects: [Modelling decision-making and uncertainty, Production and operations 
 - Assessing the Efficiency of Robust Optimisation
 
 *An example how to alocate a project(s)*
+
 projects: ["Decision Programming", "Easy DR"]
 
 
