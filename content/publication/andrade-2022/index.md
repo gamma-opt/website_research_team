@@ -13,7 +13,7 @@ authors:
 
 tags: 
 
-categories: 
+categories: [Modelling decision-making and uncertainty, Production and operations planning, Supply chain management]
 
 keywords: 
 
