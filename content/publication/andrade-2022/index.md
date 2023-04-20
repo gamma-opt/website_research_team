@@ -13,7 +13,7 @@ authors:
 
 tags: 
 
-categories: 
+categories: [Modelling decision-making and uncertainty]
 
 keywords: 
 
