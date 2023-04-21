@@ -1,7 +1,7 @@
 ---
 title: 'Deterministic and Stochastic Optimisation applied to the Oil Supply Chain'
 summary: '
-- Funding organisation: National Council for Scientific and Technological Development, Brazil
+- Funding organisation: National Council for Scientific and Technological Development (CNPq), Brazil
 
 - Funding period: Aug 2014 – Aug 2017
 
