@@ -6,7 +6,7 @@ authors:
   - g_fabricio-oliveira
   - Miguel Carrión Ruiz Peinado
 
-author_notes:
+#author_notes:
 
 date: '2020-05-01'
 
