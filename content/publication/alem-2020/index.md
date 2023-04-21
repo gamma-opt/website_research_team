@@ -24,7 +24,7 @@ publication_types: ['2']
 # Publication name and optional abbreviated publication name.
 publication: '*International Journal of Production Research*'
 
-publication_short: ''
+#publication_short: ''
 
 abstract: This paper presents an empirical assessment of four state-of-the-art risk-averse
   approaches to deal with the capacitated lot-sizing problem under stochastic demand.
