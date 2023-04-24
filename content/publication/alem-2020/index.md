@@ -1,5 +1,5 @@
 ---
-title: 'A practical assessment of risk-averse approaches in production lot-sizing problems'
+title: A practical assessment of risk-averse approaches in production lot-sizing problems
 
 authors:
   - Douglas Alem
@@ -8,9 +8,9 @@ authors:
 
 #author_notes:
 
-date: '2020-05-01'
+date: 2020-05-01
 
-doi: '10.1080/00207543.2019.1620364'
+doi: 10.1080/00207543.2019.1620364
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 
@@ -21,7 +21,7 @@ publishDate:
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
 publication: '*International Journal of Production Research*'
 
 publication_short: ''
