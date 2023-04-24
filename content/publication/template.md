@@ -1,11 +1,9 @@
 ---
 title: 'An example journal article'
+# If group member, use folder name in /content/authors
 authors:
   - admin
   - Robert Ford
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
@@ -18,7 +16,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # 7 = Thesis; 8 = Patent
 publication_types: ['2']
 
-# Publication name and optional abbreviated publication name.
+# Publication name and optional abbreviated publication name. Notice * * on title
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
@@ -27,13 +25,12 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
+# Not in use 
 tags:
-  - Source Themes
+  
 featured: false
 
 # links:
-# - name: ""
-#   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
