@@ -34,7 +34,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: http://link.springer.com/10.1007/s10898-018-0728-9
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
