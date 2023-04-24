@@ -34,7 +34,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: https://www.sciencedirect.com/science/article/pii/S030504832100089X
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +45,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: []
+categories: [Modelling decision-making and uncertainty, Efficient formulation and solution methods, Humanitarian and healthcare logistics]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

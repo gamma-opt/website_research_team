@@ -1,16 +1,16 @@
 ---
-title: 'A Strategy Based on Convex Relaxation for Solving the Oil Refinery Operations
-  Planning Problem'
+title: A Strategy Based on Convex Relaxation for Solving the Oil Refinery Operations
+  Planning Problem
 # If group member, use folder name in /content/authors
 authors:
   - Tiago Andrade
   - Gabriela Ribas
   - g_fabricio-oliveira
-date: '2016-01-01'
-doi: '10.1021/acs.iecr.5b01132'
+date: 2016-01-01
+doi: 10.1021/acs.iecr.5b01132
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: 2017-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -45,7 +45,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: https://pubs.acs.org/doi/10.1021/acs.iecr.5b01132
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''

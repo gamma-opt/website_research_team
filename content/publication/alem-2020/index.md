@@ -51,7 +51,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf:  https://doi.org/10.1080/00207543.2019.1620364
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
