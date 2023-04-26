@@ -1,5 +1,5 @@
 ---
-title: 'The *p*-Lagrangian relaxation for separable nonconvex MIQCQP problems'
+title: The p-Lagrangian relaxation for separable nonconvex MIQCQP problems
 # If group member, use folder name in /content/authors
 authors:
   - Tiago Andrade

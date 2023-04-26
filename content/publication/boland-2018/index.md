@@ -1,47 +1,30 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: A parallelizable augmented Lagrangian method applied to large-scale non-convex-constrained
   optimization problems
-subtitle: ''
-summary: ''
+# If group member, use folder name in /content/authors
 authors:
-- Natashia Boland
-- Jeffrey Christiansen
-- Brian Dandurand
-- Andrew Eberhard
-- g_fabricio-oliveira
-tags: [Lagrangian-based decomposition methods, Stochastic programming]
-categories: [Efficient formulations and solution methods, Decision making under uncertainty]
-keywords: 
-- '"Augmented Lagrangian method"'
-- '"Nonlinear block Gauss–Seidel method"'
-- '"Parallel computing"'
-- '"Proximal bundle method"'
-- '"Simplicial decomposition method"'
-date: '2019-05-01'
-lastmod: 2020-08-27T16:01:38+03:00
-featured: false
-draft: false
+  - Natashia Boland
+  - Jeffrey Christiansen
+  - Brian Dandurand
+  - Andrew Eberhard
+  - g_fabricio-oliveira
+date: 2019-05-01
+doi: 10.1007/s10107-018-1253-9
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: 2017-01-01
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-08-27T13:01:38.582624Z'
-publication_types:
-- 2
-abstract: We contribute improvements to a Lagrangian dual solution approach applied
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
+publication: '*Mathematical Programming*'
+publication_short: ''
+
+abstract: LWe contribute improvements to a Lagrangian dual solution approach applied
   to large-scale optimization problems whose objective functions are convex, continuously
   differentiable and possibly nonlinear, while the non-relaxed constraint set is compact
   but not necessarily convex. Such problems arise, for example, in the split-variable
@@ -61,7 +44,41 @@ abstract: We contribute improvements to a Lagrangian dual solution approach appl
   and we report computational results on test instances from the stochastic optimization
   literature. We demonstrate improvement in parallel speedup over a baseline parallel
   approach.
-publication: '*Mathematical Programming*'
-url_pdf: http://link.springer.com/10.1007/s10107-018-1253-9
-doi: 10.1007/s10107-018-1253-9
+
+# Summary. An optional shortened abstract.
+summary: 
+
+# Not in use. Could be used for keywords 
+tags:
+  
+featured: false
+
+# links:
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Categories
+#  These asociate the publications with the icons representing reearch topics and application areas
+categories: [Efficient formulation and solution methods]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

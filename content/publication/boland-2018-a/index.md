@@ -1,47 +1,31 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: Combining Progressive Hedging with a Frank--Wolfe Method to Compute Lagrangian
   Dual Bounds in Stochastic Mixed-Integer Programming
-subtitle: ''
-summary: ''
+# If group member, use folder name in /content/authors
 authors:
-- Natashia Boland
-- Jeffrey Christiansen
-- Brian Dandurand
-- Andrew Eberhard
-- Jeff Linderoth
-- James Luedtke
-- g_fabricio-oliveira
-tags: [Lagrangian-based decomposition methods]
-categories: [Efficient formulations and solution methods]
-keywords: 
-- '"Frank–Wolfe method"'
-- '"Lagrangian duality"'
-- '"Mixed-integer stochastic programming"'
-- '"Progressive hedging"'
-date: '2018-01-01'
-lastmod: 2020-08-27T16:11:43+03:00
-featured: false
-draft: false
+  - Natashia Boland
+  - Jeffrey Christiansen
+  - Brian Dandurand
+  - Andrew Eberhard
+  - Jeff Linderoth
+  - James Luedtke
+  - g_fabricio-oliveira
+date: 2020-08-27
+doi: 10.1137/16M1076290
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: 2017-01-01
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-08-27T13:11:43.676326Z'
-publication_types:
-- 2
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
+publication: '*SIAM Journal of Optimization*'
+publication_short: ''
+
 abstract: We present a new primal-dual algorithm for computing the value of the Lagrangian
   dual of a stochastic mixed-integer program (SMIP) formed by relaxing its nonanticipativity
   constraints. This dual is widely used in decomposition methods for the solution
@@ -52,7 +36,41 @@ abstract: We present a new primal-dual algorithm for computing the value of the 
   in the classical Frank–Wolfe method. Numerical results demonstrate that our new
   algorithm empirically outperforms the standard implementation of progressive hedging
   for obtaining bounds in SMIP.
-publication: '*SIAM Journal on Optimization*'
-url_pdf: https://epubs.siam.org/doi/10.1137/16M1076290
-doi: 10.1137/16M1076290
+
+# Summary. An optional shortened abstract.
+summary: 
+
+# Not in use. Could be used for keywords 
+tags:
+  
+featured: false
+
+# links:
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Categories
+#  These asociate the publications with the icons representing reearch topics and application areas
+categories: [Efficient formulation and solution methods]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

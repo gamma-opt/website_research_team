@@ -1,42 +1,26 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: 'Tactical capacity planning in a real-world ETO industry case: An action research'
-subtitle: ''
-summary: ''
+# If group member, use folder name in /content/authors
 authors:
-- Andréa Nunes Carvalho
-- g_fabricio-oliveira
-- Luiz Felipe Scavarda
-tags: [Process systems planning]
-categories: [Production systems & supply chain management]
-keywords: 
-- '"Aggregate production planning"'
-- '"Decision support system"'
-- '"Engineer-to-order"'
-- '"Mathematical programming"'
-date: '2015-01-01'
-lastmod: 2020-08-27T16:01:41+03:00
-featured: false
-draft: false
+  - Andréa Nunes Carvalho
+  - g_fabricio-oliveira
+  - Luiz Felipe Scavarda
+date: 2015-01-01
+doi: 10.1016/j.ijpe.2015.05.032
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: 2017-01-01
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-08-27T13:01:40.941221Z'
-publication_types:
-- 2
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
+publication: '*International Journal of Production Economics*'
+publication_short: ''
+
 abstract: Many engineering-to-order (ETO) organizations are multi-project capacity-driven
   production systems in which capacity planning is of major importance in the order
   acceptance phase. The academic literature, in this area, presents a research-practice
@@ -60,6 +44,41 @@ abstract: Many engineering-to-order (ETO) organizations are multi-project capaci
   a real case application, but also highlights issues that either are not entirely
   explored in other studies or must be adapted to properly model a specific but real-world
   production setting.
-publication: '*International Journal of Production Economics*'
-doi: 10.1016/j.ijpe.2015.05.032
+
+# Summary. An optional shortened abstract.
+summary: 
+
+# Not in use. Could be used for keywords 
+tags:
+  
+featured: false
+
+# links:
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Categories
+#  These asociate the publications with the icons representing reearch topics and application areas
+categories: [Production and operations planning]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---

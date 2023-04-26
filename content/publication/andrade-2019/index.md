@@ -1,17 +1,16 @@
 ---
-title: 'Enhancing the normalized multiparametric disaggregation technique for mixed-integer
-  quadratic programming'
+title: Enhancing the normalized multiparametric disaggregation technique for mixed-integer quadratic programming
 # If group member, use folder name in /content/authors
 authors:
   - Tiago Andrade
   - g_fabricio-oliveira
   - Silvio Hamacher
   - Andrew Eberhard
-date: '2019-04-01'
-doi: '10.1007/s10898-018-0728-9'
+date: 2019-04-01
+doi: 10.1007/s10898-018-0728-9
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01'
+publishDate: 2017-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +33,7 @@ tags:
 featured: false
 
 # links:
-url_pdf:
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,7 +44,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: [Efficient formulation and solution methods, Production and operations planning]
+categories: [Efficient formulation and solution methods]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

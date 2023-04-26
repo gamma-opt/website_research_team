@@ -1,6 +1,5 @@
 ---
-title: A Strategy Based on Convex Relaxation for Solving the Oil Refinery Operations
-  Planning Problem
+title: A strategy based on convex relaxation for solving the oil refinery operations planning problem
 # If group member, use folder name in /content/authors
 authors:
   - Tiago Andrade
