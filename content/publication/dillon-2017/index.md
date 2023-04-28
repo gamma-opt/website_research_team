@@ -1,44 +1,27 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: A two-stage stochastic programming model for inventory management in the blood
   supply chain
-subtitle: ''
-summary: ''
+# If group member, use folder name in /content/authors
 authors:
-- Mary Dillon
-- g_fabricio-oliveira
-- Babak Abbasi
-tags: [Healthcare and humanitarian systems, Stochastic programming]
-categories: [Production systems & supply chain management, Decision making under uncertainty]
-keywords:
-- '"Blood supply chain"'
-- '"Inventory management"'
-- '"Perishability"'
-- '"Stochastic demand"'
-- '"Two-stage stochastic programming"'
-date: '2017-01-01'
-lastmod: 2020-08-27T16:01:40+03:00
-featured: false
-draft: false
+  - Mary Dillon
+  - g_fabricio-oliveira
+  - Babak Abbasi
+date: 2017-01-01
+doi: 10.1016/j.ijpe.2017.02.006
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: 2017-01-01
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: ["inventory-management"]
-publishDate: '2020-08-27T13:01:40.042772Z'
-publication_types:
-- 2
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
+publication: '*International Journal of Production Economics*'
+publication_short: ''
+
 abstract: Managing inventories in the blood supply chain is a challenging task, mainly
   due to the uncertain nature of the demand for blood units, the perishable nature
   of the blood, and a strong subjective bias towards criteria other than cost minimisation.
@@ -59,6 +42,41 @@ abstract: Managing inventories in the blood supply chain is a challenging task, 
   by reducing current target levels to diminish wastage and total cost without compromising
   the service level. Finally, the consideration of blood substitutions showed further
   improvement in the performance of the blood inventory management system.
-publication: '*International Journal of Production Economics*'
-doi: 10.1016/j.ijpe.2017.02.006
+
+# Summary. An optional shortened abstract.
+summary: 
+
+# Not in use. Could be used for keywords 
+tags:
+  
+featured: false
+
+# links:
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Categories
+#  These asociate the publications with the icons representing reearch topics and application areas
+categories: [Modelling decision-making and uncertainty, Humanitarian and healthcare logistics]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 ---
