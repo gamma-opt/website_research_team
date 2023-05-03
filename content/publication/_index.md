@@ -8,6 +8,8 @@ view: citation
 banner:
   caption: ''
   image: ''
+  
+profile: false
+share: false
 ---
 
-profile: false
