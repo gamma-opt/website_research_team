@@ -1,42 +1,26 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: 'Improving maritime inventory routing: application to a Brazilian petroleum case'
-subtitle: ''
-summary: ''
+# If group member, use folder name in /content/authors
 authors:
-- Gustavo Souto dos Santos Diz
-- g_fabricio-oliveira
-- Silvio Hamacher
-tags: [Logistics management]
-categories: [Production systems & supply chain management]
-keywords: 
-- '"Maritime inventory routing"'
-- '"fixed charge network flow formulation"'
-- '"mixed-integer linear programming"'
-- '"ship scheduling"'
-date: '2017-01-01'
-lastmod: 2020-08-27T16:01:40+03:00
-featured: false
-draft: false
+  - Gustavo Souto dos Santos Diz
+  - g_fabricio-oliveira
+  - Silvio Hamacher
+date: 2017-01-01
+doi: 10.1080/03088839.2016.1216622
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
+# Schedule page publish date (NOT publication's date).
+publishDate: 2017-01-01
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: '2020-08-27T13:01:40.155981Z'
-publication_types:
-- 2
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['2']
+
+# Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
+publication: '*Maritime Policy and Management*'
+publication_short: ''
+
 abstract: The crude oil offloading and supply problem (COSP) is a type of operation
   maritime inventory routing (MIR) problem encountered by petroleum companies. In
   COSP, the company not only is responsible for the ship scheduling to carry the crude
@@ -51,9 +35,50 @@ abstract: The crude oil offloading and supply problem (COSP) is a type of operat
   model to solve COSP has succeeded when encountering real-life events, such as variation
   in production or consumption rates, berth unavailability, and changes in the storage
   capacities at ports.
+<<<<<<< Updated upstream
 publication: '*Maritime Policy and Management*'
 doi: 10.1080/03088839.2016.1216622
 
 # forbid social media icons appearance
 share: false
 ---
+=======
+
+# Summary. An optional shortened abstract.
+summary: 
+
+# Not in use. Could be used for keywords 
+tags:
+  
+featured: false
+
+# links:
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Categories
+#  These asociate the publications with the icons representing reearch topics and application areas
+categories: [Supply chain management]
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+---
+>>>>>>> Stashed changes

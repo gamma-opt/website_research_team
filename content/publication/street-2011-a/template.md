@@ -1,11 +1,11 @@
 ---
-title: Stochastic benders decomposition for the supply chain investment planning problem under demand uncertainty
+title: An example journal article
 # If group member, use folder name in /content/authors
 authors:
-  - g_fabricio-oliveira
-  - Silvio Hamacher
-date: 2012-12-01
-doi: 10.1590/S0101-74382012005000027
+  - admin
+  - Robert Ford
+date: 2015-09-01
+doi: Number/Number.Numer
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-01
@@ -17,31 +17,13 @@ publishDate: 2017-01-01
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
-publication: '*Pesquisa Operacional*'
+publication: '*Journal of Source Themes*'
 publication_short: ''
 
-abstract: This paper presents the application of a stochastic Benders decomposition
-  algorithm for the problem of supply chain investment planning under uncertainty
-  applied to the petroleum byproducts supply chain. The uncertainty considered is
-  related with the unknown demand levels for oil products. For this purpose, a model
-  was developed based on two-stage stochastic programming. It is proposed two different
-  solution methodologies, one based on the classical cutting plane approach presented
-  by Van Slyke & Wets (1969), and other, based on a multi cut extension of it, firstly
-  introduced by Birge & Louveaux (1988). The methods were evaluated on a real sized
-  case study. Preliminary numerical results obtained from computational experiments
-  are encouraging.
-<<<<<<< Updated upstream
-publication: '*Pesquisa Operacional*'
-url_pdf: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-74382012000300010&lng=en&tlng=en
-doi: 10.1590/S0101-74382012005000027
-
-# forbid social media icons appearance
-share: false
----
-=======
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # Not in use. Could be used for keywords 
 tags:
@@ -60,7 +42,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: [Efficient formulation and solution methods]
+categories: []
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -77,4 +59,3 @@ image:
   focal_point: ''
   preview_only: false
 ---
->>>>>>> Stashed changes
