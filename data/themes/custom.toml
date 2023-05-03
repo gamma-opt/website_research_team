@@ -9,8 +9,7 @@ name = "custom"
 
   # Menu
   menu_primary = "#00528d"
-  menu_text = "#ffffff"
-  menu_text_active = "#F4802E"
+  menu_text = "#F4802E"
   menu_title = "#ffffff"
 
   # Home sections
