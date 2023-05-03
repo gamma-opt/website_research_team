@@ -26,7 +26,7 @@ The *Γ-opt* (reads gamma-opt) research group is a part of the [Systems Analysis
 
 We develop research in the fields of Operations Research and Management Science, with emphasis on *Optimisation*, *Mathematical Programming*, and applications related to *Production Systems Planning* and *Supply Chain Management*.
 
-If you are interested in positions, collaborations or exchange opportunities, please contact [Fabricio Oliveira](g_fabricio-oliveira/).
+If you are interested in positions, collaborations or exchange opportunities, please contact [Fabricio Oliveira](/author/fabricio-oliveira/).
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
