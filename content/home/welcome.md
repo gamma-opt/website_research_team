@@ -31,13 +31,6 @@ We develop research in the fields of Operations Research and Management Science,
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-<!-- Add font icons -->
-<a href="https://www.linkedin.com/company/gamma-opt/" class="fa fa-linkedin"></a>
-<a href="https://www.youtube.com/@gamma-opt9234" class="fa fa-youtube"></a>
-<a href="https://github.com/gamma-opt" class="fa fa-github"></a>
-
-
 <style>
 .fa {
   padding: 20px;
@@ -68,3 +61,8 @@ We develop research in the fields of Operations Research and Management Science,
   color: white;
 }
 </style>
+
+<!-- Add font icons -->
+<a href="https://www.linkedin.com/company/gamma-opt/" class="fa fa-linkedin"></a>
+<a href="https://www.youtube.com/@gamma-opt9234" class="fa fa-youtube"></a>
+<a href="https://github.com/gamma-opt" class="fa fa-github"></a>
