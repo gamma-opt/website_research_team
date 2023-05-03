@@ -9,7 +9,7 @@ appearance:
   theme_day: custom
   theme_night: 
   font: native
-  font_size: l
+  font_size: m
 
 # SEO
 
@@ -33,11 +33,11 @@ header:
   navbar:
     enable: true
     align: r
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
 
 # Site footer
 

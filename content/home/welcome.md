@@ -36,8 +36,8 @@ If you are interested in positions, collaborations or exchange opportunities, pl
 <style>
 .fa {
   padding: 10px;
-  font-size: 40px;
-  width: 75px;
+  font-size: 35px;
+  width: 70px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
