@@ -34,3 +34,25 @@ We develop research in the fields of Operations Research and Management Science,
 <a href="https://www.linkedin.com/company/gamma-opt/" class="fa fa-linkedin"></a>
 <a href="https://www.youtube.com/@gamma-opt9234" class="fa fa-youtube"></a>
 <a href="https://github.com/gamma-opt" class="fa fa-github"></a>
+
+
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+</style>
