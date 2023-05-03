@@ -34,15 +34,11 @@ We develop research in the fields of Operations Research and Management Science,
 <style>
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 50px;
+  font-size: 40px;
+  width: 75px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
 }
 
 .fa-linkedin {
@@ -57,7 +53,7 @@ We develop research in the fields of Operations Research and Management Science,
 
 
 .fa-github {
-  background: #007bb5;
+  background: #171515;
   color: white;
 }
 </style>
