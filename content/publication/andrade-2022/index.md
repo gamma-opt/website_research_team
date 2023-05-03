@@ -62,6 +62,6 @@ image:
   focal_point: ''
   preview_only: false
   
-profile: false
+# forbid social media icons appearance
 share: false
 ---
