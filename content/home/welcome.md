@@ -33,7 +33,7 @@ We develop research in the fields of Operations Research and Management Science,
 
 <style>
 .fa {
-  padding: 20px;
+  padding: 10px;
   font-size: 40px;
   width: 75px;
   text-align: center;
