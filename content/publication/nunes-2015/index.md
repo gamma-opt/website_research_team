@@ -56,4 +56,7 @@ abstract: The use of fuels with low environmental impact has been recently highl
 publication: '*International Journal of Hydrogen Energy*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0360319915303840
 doi: 10.1016/j.ijhydene.2015.10.015
+
+# forbid social media icons appearance
+share: false
 ---

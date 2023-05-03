@@ -53,4 +53,7 @@ abstract: Operational decisions for crude oil scheduling activities are determin
 publication: '*European Journal of Operational Research*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0377221716000795
 doi: 10.1016/j.ejor.2016.01.034
+
+# forbid social media icons appearance
+share: false
 ---

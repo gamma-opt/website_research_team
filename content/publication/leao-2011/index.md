@@ -51,4 +51,7 @@ abstract: This article presents a methodology for conceiving and planning the de
   conjecture can affect the robustness of the solutions. © 2011 Elsevier Ltd.
 publication: '*Bioresource Technology*'
 doi: 10.1016/j.biortech.2011.07.002
+
+# forbid social media icons appearance
+share: false
 ---

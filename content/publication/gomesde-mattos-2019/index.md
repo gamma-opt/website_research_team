@@ -67,4 +67,7 @@ abstract: © 2018, Springer Science+Business Media, LLC, part of Springer Nature
 publication: '*Annals of Operations Research*'
 url_pdf: http://link.springer.com/10.1007/s10479-018-3015-8
 doi: 10.1007/s10479-018-3015-8
+
+# forbid social media icons appearance
+share: falses
 ---

@@ -50,4 +50,7 @@ abstract: One of the most important activities in the oil and gas industry is th
 publication: '*Pesquisa Operacional*'
 url_pdf: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-74382016000200241&lng=en&tlng=en
 doi: 10.1590/0101-7438.2016.036.02.0241
+
+# forbid social media icons appearance
+share: false
 ---

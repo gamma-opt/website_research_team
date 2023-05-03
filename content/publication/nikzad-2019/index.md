@@ -60,4 +60,7 @@ abstract: Medical drug shortages are an important issue in health care, since th
 publication: '*Computers & Industrial Engineering*'
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0360835218306582 https://linkinghub.elsevier.com/retrieve/pii/S0360835218306582
 doi: 10.1016/j.cie.2018.12.055
+
+# forbid social media icons appearance
+share: false
 ---

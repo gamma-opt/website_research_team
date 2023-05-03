@@ -75,4 +75,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+ 
+ # forbid social media icons appearance
+share: false
 ---

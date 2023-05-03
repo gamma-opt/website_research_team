@@ -56,4 +56,7 @@ abstract: This paper presents a new approach to simultaneously schedule energy a
   size of the contingency set, thus providing a computationally efficient framework.
   Simulation results back up these conclusions.
 publication: '*17th Power Systems Computation Conference*'
+
+# forbid social media icons appearance
+share: false
 ---

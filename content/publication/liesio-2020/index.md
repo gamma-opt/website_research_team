@@ -42,4 +42,7 @@ abstract: Efficiency analysis is widely employed to evaluate decision making uni
 publication: '*European Journal of Operational Research*'
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0377221720302459
 doi: https://doi.org/10.1016/j.ejor.2020.03.031
+
+# forbid social media icons appearance
+share: false
 ---

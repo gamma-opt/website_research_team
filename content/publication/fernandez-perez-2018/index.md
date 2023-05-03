@@ -48,4 +48,7 @@ abstract: We present deterministic and stochastic programming models for the wor
 publication: '*Industrial & Engineering Chemistry Research*'
 url_pdf: https://pubs.acs.org/doi/10.1021/acs.iecr.7b04500
 doi: 10.1021/acs.iecr.7b04500
+
+# forbid social media icons appearance
+share: false
 ---

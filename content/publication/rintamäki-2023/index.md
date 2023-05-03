@@ -49,4 +49,7 @@ abstract: Stochastic adaptive robust optimization is capable of handling short-t
 
 publication: '*IEEE Transactions on Power Systems*'
 doi: 10.1109/TPWRS.2023.3244668
+
+# forbid social media icons appearance
+share: false
 ---

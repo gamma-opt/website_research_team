@@ -48,4 +48,7 @@ abstract: Influence diagrams are widely employed to represent multi-stage decisi
 
 publication: '*European Journal of Operational Research*'
 doi: 10.1016/j.ejor.2021.12.013
+
+# forbid social media icons appearance
+share: false
 ---

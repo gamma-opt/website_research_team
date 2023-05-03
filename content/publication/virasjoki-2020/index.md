@@ -63,4 +63,7 @@ abstract: Interest in sustainability has increased the share of variable renewab
 publication: '*Energy Economics*'
 url_pdf: http://arxiv.org/abs/1908.03167 https://linkinghub.elsevier.com/retrieve/pii/S0140988320300554
 doi: 10.1016/j.eneco.2020.104716
+
+# forbid social media icons appearance
+share: false
 ---

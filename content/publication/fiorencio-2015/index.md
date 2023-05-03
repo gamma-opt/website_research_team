@@ -57,4 +57,7 @@ abstract: 'The Brazilian oil industry has gained new momentum after the discover
   currently optimizes investments in the Brazilian petroleum supply chain.'
 publication: '*International Transactions in Operational Research*'
 doi: 10.1111/itor.12113
+
+# forbid social media icons appearance
+share: false
 ---

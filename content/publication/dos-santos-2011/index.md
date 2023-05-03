@@ -56,4 +56,7 @@ abstract: Efficient management of the natural gas business chain - based on pipe
 publication: '*Energy Policy*'
 url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0301421511005039
 doi: 10.1016/j.enpol.2011.06.047
+
+# forbid social media icons appearance
+share: false
 ---

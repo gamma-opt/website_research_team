@@ -52,4 +52,7 @@ abstract: Managing blood product inventories can be challenging due to stochasti
 
 publication: '*European Journal of Operational Research*'
 doi: 10.1016/j.ejor.2023.03.007
+
+# forbid social media icons appearance
+share: false
 ---

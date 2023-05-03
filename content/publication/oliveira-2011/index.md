@@ -53,4 +53,7 @@ abstract: 'This article addresses the problem of scheduling in oil refineries. T
 publication: '*Journal of Intelligent Manufacturing*'
 url_pdf: http://link.springer.com/10.1007/s10845-009-0339-x
 doi: 10.1007/s10845-009-0339-x
+
+# forbid social media icons appearance
+share: false
 ---

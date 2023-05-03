@@ -47,4 +47,7 @@ abstract: A plethora of contributions have appeared in the literature over the p
 
 publication: '*Computer Aided Chemical Engineering*'
 doi: 10.1016/B978-0-323-88506-5.50269-2
+
+# forbid social media icons appearance
+share: false
 ---

@@ -63,4 +63,7 @@ abstract: We present a scenario decomposition framework based on Lagrangean deco
   the traditional subgradient algorithm. © 2012 Elsevier Ltd.
 publication: '*Computers and Chemical Engineering*'
 doi: 10.1016/j.compchemeng.2012.10.012
+
+# forbid social media icons appearance
+share: false
 ---

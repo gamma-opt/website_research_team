@@ -36,4 +36,7 @@ abstract: "Despite multi-stage decision problems being common in production plan
 
 publication: ''
 url_pdf: "https://sal.aalto.fi/publications/pdf-files//theses/mas/ther20_public.pdf"
+
+# forbid social media icons appearance
+share: false
 ---

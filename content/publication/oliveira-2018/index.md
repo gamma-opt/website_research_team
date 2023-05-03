@@ -53,4 +53,7 @@ abstract: © 2018 The Authors. In this paper, we propose a novel decomposition a
 publication: '*International Transactions in Operational Research*'
 url_pdf: http://doi.wiley.com/10.1111/itor.12525
 doi: 10.1111/itor.12525
+
+# forbid social media icons appearance
+share: false
 ---

@@ -57,4 +57,7 @@ abstract: Influence diagrams are widely employed to represent multi-stage decisi
   thus be viewed as a generalization of Contingent Portfolio Programming.
 publication: ''
 url_pdf: http://arxiv.org/abs/1910.09196
+
+# forbid social media icons appearance
+share: false
 ---

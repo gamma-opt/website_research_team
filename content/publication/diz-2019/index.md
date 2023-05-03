@@ -57,4 +57,7 @@ abstract: "Objectives: By juxtaposing literature in signed language interpreting
 publication: '*Flexible Services and Manufacturing Journal*'
 url_pdf: https://doi.org/10.1007/s10696-018-9327-9 http://link.springer.com/10.1007/s10696-018-9327-9
 doi: 10.1007/s10696-018-9327-9
+
+# forbid social media icons appearance
+share: false
 ---

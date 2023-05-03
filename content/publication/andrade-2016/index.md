@@ -72,4 +72,7 @@ categories: [Efficient formulation and solution methods, Production and operatio
 #   Otherwise, set `projects: []`.
 projects: []
 
+
+# forbid social media icons appearance
+share: false
 ---

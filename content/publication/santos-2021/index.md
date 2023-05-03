@@ -48,4 +48,7 @@ abstract: Rigs are critical capital-intensive resources for oil and gas explorat
 
 publication: '*Computers & Chemical Engineering*'
 doi: 10.1016/j.compchemeng.2021.107443
+
+# forbid social media icons appearance
+share: false
 ---

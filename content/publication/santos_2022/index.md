@@ -48,4 +48,7 @@ abstract: After completion, oil wells often require intervention services to inc
 
 publication: '*Computers & Chemical Engineering*'
 doi: 10.1016/j.compchemeng.2022.108088
+
+# forbid social media icons appearance
+share: false
 ---

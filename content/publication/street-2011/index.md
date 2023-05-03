@@ -54,4 +54,7 @@ abstract: This paper presents a new approach for the contingency-constrained sin
 publication: '*IEEE Transactions on Power Systems*'
 url_pdf: http://ieeexplore.ieee.org/document/5659501/
 doi: 10.1109/TPWRS.2010.2087367
+
+# forbid social media icons appearance
+share: false
 ---

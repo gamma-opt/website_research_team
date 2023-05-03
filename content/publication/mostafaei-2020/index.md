@@ -49,4 +49,7 @@ abstract: Multiproduct pipeline transportation scheduling is a complex operation
 
 publication: '*European Journal of Operational Research*'
 doi: 10.1016/j.ejor.2020.12.034
+
+# forbid social media icons appearance
+share: false
 ---

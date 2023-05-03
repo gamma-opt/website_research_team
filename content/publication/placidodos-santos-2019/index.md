@@ -61,4 +61,7 @@ abstract: This paper presents the development of an enhanced L-Shaped method app
 publication: '*European Journal of Operational Research*'
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0377221718309949 https://linkinghub.elsevier.com/retrieve/pii/S0377221718309949
 doi: 10.1016/j.ejor.2018.11.053
+
+# forbid social media icons appearance
+share: false
 ---

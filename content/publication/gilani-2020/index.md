@@ -97,4 +97,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+# forbid social media icons appearance
+share: false
 ---

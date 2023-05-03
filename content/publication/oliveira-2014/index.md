@@ -57,4 +57,7 @@ abstract: This paper addresses the solution of a two-stage stochastic programmin
   Ltd.
 publication: '*Computers and Operations Research*'
 doi: 10.1016/j.cor.2014.03.021
+
+# forbid social media icons appearance
+share: false
 ---

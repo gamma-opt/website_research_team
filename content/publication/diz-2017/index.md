@@ -53,4 +53,7 @@ abstract: The crude oil offloading and supply problem (COSP) is a type of operat
   capacities at ports.
 publication: '*Maritime Policy and Management*'
 doi: 10.1080/03088839.2016.1216622
+
+# forbid social media icons appearance
+share: false
 ---

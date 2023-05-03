@@ -54,4 +54,7 @@ abstract: This paper presents the application of a stochastic Benders decomposit
 publication: '*Pesquisa Operacional*'
 url_pdf: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-74382012000300010&lng=en&tlng=en
 doi: 10.1590/S0101-74382012005000027
+
+# forbid social media icons appearance
+share: false
 ---
