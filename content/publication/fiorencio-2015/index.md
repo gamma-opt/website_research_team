@@ -39,14 +39,6 @@ abstract: 'The Brazilian oil industry has gained new momentum after the discover
   of the investment in sections of a pipeline that connects a refinery to several
   distribution bases. These case studies demonstrate the potential use of a DSS that
   currently optimizes investments in the Brazilian petroleum supply chain.'
-<<<<<<< Updated upstream
-publication: '*International Transactions in Operational Research*'
-doi: 10.1111/itor.12113
-
-# forbid social media icons appearance
-share: false
----
-=======
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -84,5 +76,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
 ---
->>>>>>> Stashed changes

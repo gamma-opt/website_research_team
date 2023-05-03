@@ -37,16 +37,6 @@ abstract: Efficient management of the natural gas business chain - based on pipe
   revenue and contractual penalties. It also economically identifies, quantifies and
   justifies the installation of stand-by compressor units that can mitigate the Transporter's
   exposure to losses caused by capacity shortfalls as a consequence of scheduled and
-<<<<<<< Updated upstream
-  non-scheduled outages. © 2011 Elsevier Ltd.
-publication: '*Energy Policy*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0301421511005039
-doi: 10.1016/j.enpol.2011.06.047
-
-# forbid social media icons appearance
-share: false
----
-=======
   non-scheduled outages.
 
 # Summary. An optional shortened abstract.
@@ -85,5 +75,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false
 ---
->>>>>>> Stashed changes

@@ -33,15 +33,6 @@ abstract:  We present deterministic and stochastic programming models for the wo
   instances based on real-world problems. The results suggest that the proposed methodology
   can be used to solve large instances and produces quality solutions in computationally
   reasonable times.
-<<<<<<< Updated upstream
-publication: '*Industrial & Engineering Chemistry Research*'
-url_pdf: https://pubs.acs.org/doi/10.1021/acs.iecr.7b04500
-doi: 10.1021/acs.iecr.7b04500
-
-# forbid social media icons appearance
-share: false
----
-=======
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -79,5 +70,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
 ---
->>>>>>> Stashed changes

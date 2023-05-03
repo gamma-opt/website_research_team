@@ -35,15 +35,6 @@ abstract: We present a scenario decomposition framework based on Lagrangean deco
   formulations of the non-anticipativity conditions have a significant impact on the
   performance of the algorithm. Moreover, we observe that the proposed hybrid approach
   has superior performance in terms of faster computational times when compared with
-<<<<<<< Updated upstream
-  the traditional subgradient algorithm. © 2012 Elsevier Ltd.
-publication: '*Computers and Chemical Engineering*'
-doi: 10.1016/j.compchemeng.2012.10.012
-
-# forbid social media icons appearance
-share: false
----
-=======
   the traditional subgradient algorithm.
 
 # Summary. An optional shortened abstract.
@@ -82,5 +73,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+  
+share: false  
 ---
->>>>>>> Stashed changes

@@ -52,7 +52,6 @@ categories: [Modelling decision-making and uncertainty, Supply chain management]
 #   Otherwise, set `projects: []`.
 projects: []
 
-<<<<<<< Updated upstream
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -63,13 +62,3 @@ slides: ""
 # forbid social media icons appearance
 share: false
 ---
-=======
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ''
-  focal_point: ''
-  preview_only: false
----
->>>>>>> Stashed changes

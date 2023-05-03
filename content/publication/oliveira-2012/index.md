@@ -30,15 +30,6 @@ abstract: This paper presents the application of a stochastic Benders decomposit
   introduced by Birge & Louveaux (1988). The methods were evaluated on a real sized
   case study. Preliminary numerical results obtained from computational experiments
   are encouraging.
-<<<<<<< Updated upstream
-publication: '*Pesquisa Operacional*'
-url_pdf: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-74382012000300010&lng=en&tlng=en
-doi: 10.1590/S0101-74382012005000027
-
-# forbid social media icons appearance
-share: false
----
-=======
 
 # Summary. An optional shortened abstract.
 summary:
@@ -76,5 +67,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false    
 ---
->>>>>>> Stashed changes

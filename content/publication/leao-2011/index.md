@@ -30,15 +30,6 @@ abstract: This article presents a methodology for conceiving and planning the de
   technology, and when it should be available, as well as the configuration of the
   production zones along the planning horizon considered. Moreover, a sensitivity
   analysis is performed in order to measure how possible variations in the considered
-<<<<<<< Updated upstream
-  conjecture can affect the robustness of the solutions. © 2011 Elsevier Ltd.
-publication: '*Bioresource Technology*'
-doi: 10.1016/j.biortech.2011.07.002
-
-# forbid social media icons appearance
-share: false
----
-=======
   conjecture can affect the robustness of the solutions.
 
 # Summary. An optional shortened abstract.
@@ -77,5 +68,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false 
 ---
->>>>>>> Stashed changes

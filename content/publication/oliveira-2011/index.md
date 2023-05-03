@@ -32,17 +32,6 @@ abstract: 'This article addresses the problem of scheduling in oil refineries. T
   GA models proved to be good solutions for both primary objectives, but the GA model
   resulted in a smaller number of operational changes. The reason for this is that
   GA incorporates a multi-criteria approach, which is capable of adaptively updating
-<<<<<<< Updated upstream
-  the weights of the objective throughout the evolutionary process. © 2009 Springer
-  Science+Business Media, LLC.'
-publication: '*Journal of Intelligent Manufacturing*'
-url_pdf: http://link.springer.com/10.1007/s10845-009-0339-x
-doi: 10.1007/s10845-009-0339-x
-
-# forbid social media icons appearance
-share: false
----
-=======
   the weights of the objective throughout the evolutionary process.'
 
 # Summary. An optional shortened abstract.
@@ -81,5 +70,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
+
 ---
->>>>>>> Stashed changes

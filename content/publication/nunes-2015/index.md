@@ -37,15 +37,6 @@ abstract: The use of fuels with low environmental impact has been recently highl
   proposed framework was able to provide solutions with optimality gaps estimated
   to be below 1% within an acceptable computational time, demonstrating the adequacy
   of the developed methodology.
-<<<<<<< Updated upstream
-publication: '*International Journal of Hydrogen Energy*'
-url_pdf: https://linkinghub.elsevier.com/retrieve/pii/S0360319915303840
-doi: 10.1016/j.ijhydene.2015.10.015
-
-# forbid social media icons appearance
-share: false
----
-=======
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -83,5 +74,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
 ---
->>>>>>> Stashed changes

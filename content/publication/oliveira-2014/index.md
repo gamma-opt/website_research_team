@@ -30,16 +30,6 @@ abstract: This paper addresses the solution of a two-stage stochastic programmin
   of the proposed framework. We compare the performance of the proposed algorithm
   with two other acceleration techniques. Results suggest that the proposed approach
   is able to efficiently solve the problem under consideration, achieving better performance
-<<<<<<< Updated upstream
-  in terms of computational times when compared to other two techniques. © 2014 Elsevier
-  Ltd.
-publication: '*Computers and Operations Research*'
-doi: 10.1016/j.cor.2014.03.021
-
-# forbid social media icons appearance
-share: false
----
-=======
   in terms of computational times when compared to other two techniques.
 
 # Summary. An optional shortened abstract.
@@ -78,5 +68,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
+
 ---
->>>>>>> Stashed changes

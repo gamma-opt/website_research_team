@@ -24,8 +24,7 @@ publication_types: ['2']
 publication: '*Annals of Operations Research*'
 publication_short: ''
 
-abstract: Vector
-  control, particularly distribution of insecticide-treated bed nets (ITNs), constitutes
+abstract: Vector control, particularly distribution of insecticide-treated bed nets (ITNs), constitutes
   one of the major pathways to prevent and reduce malaria transmission. ITN distribution
   campaigns face several challenges, such as inadequate funding, budgetary constraints,
   hard-to-reach areas, limited transportation, and market and price volatility. While
@@ -47,15 +46,6 @@ abstract: Vector
   assessing robust solutions through Monte Carlo simulations against several realizations
   of uncertain parameter values indicates that, as desired, robust plan feasibility
   increases with the specified level of conservatism.
-<<<<<<< Updated upstream
-publication: '*Annals of Operations Research*'
-url_pdf: http://link.springer.com/10.1007/s10479-018-3015-8
-doi: 10.1007/s10479-018-3015-8
-
-# forbid social media icons appearance
-share: falses
----
-=======
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -93,5 +83,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
 ---
->>>>>>> Stashed changes

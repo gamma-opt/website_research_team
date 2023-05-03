@@ -35,14 +35,6 @@ abstract: The crude oil offloading and supply problem (COSP) is a type of operat
   model to solve COSP has succeeded when encountering real-life events, such as variation
   in production or consumption rates, berth unavailability, and changes in the storage
   capacities at ports.
-<<<<<<< Updated upstream
-publication: '*Maritime Policy and Management*'
-doi: 10.1080/03088839.2016.1216622
-
-# forbid social media icons appearance
-share: false
----
-=======
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -80,5 +72,6 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+share: false  
 ---
->>>>>>> Stashed changes
