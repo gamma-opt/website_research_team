@@ -46,6 +46,10 @@ We develop research in the fields of Operations Research and Management Science,
   margin: 5px 2px;
 }
 
+.fa:hover {
+    opacity: 0.7;
+}
+
 .fa-linkedin {
   background: #007bb5;
   color: white;
@@ -53,6 +57,12 @@ We develop research in the fields of Operations Research and Management Science,
 
 .fa-youtube {
   background: #bb0000;
+  color: white;
+}
+
+
+.fa-github {
+  background: #007bb5;
   color: white;
 }
 </style>
