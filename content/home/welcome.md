@@ -17,6 +17,19 @@ design:
   # Add custom styles
   css_style:
   css_class:
+  
+  cta:
+        label: 
+        url: https://wowchemy.com/templates/
+        icon_pack: fab
+        icon: linkedin
+      # Optionally, add an alternative CTA link
+  cta:
+        label: 
+        url: https://wowchemy.com/templates/
+        icon_pack: fab
+        icon: twitter
+      # Optionally, add an alternative CTA link
 ---
 
 <br>
