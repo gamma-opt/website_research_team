@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-title: Applications
+title: Application areas
 widget: featurette 
 weight: 20
 
