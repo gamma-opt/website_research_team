@@ -18,18 +18,6 @@ design:
   css_style:
   css_class:
   
-cta:
-        label: 
-        url: https://wowchemy.com/templates/
-        icon_pack: fab
-        icon: linkedin
-      # Optionally, add an alternative CTA link
-cta:
-        label: 
-        url: https://wowchemy.com/templates/
-        icon_pack: fab
-        icon: twitter
-      # Optionally, add an alternative CTA link
 ---
 
 <br>
@@ -38,5 +26,6 @@ The *Γ-opt* (reads gamma-opt) research group is a part of the [Systems Analysis
 
 We develop research in the fields of Operations Research and Management Science, with emphasis on *Optimisation*, *Mathematical Programming*, and applications related to *Production Systems Planning* and *Supply Chain Management*.
 
-<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
-<a style="display: block; height: 100px; width: 500px; background: #606060; color: #ffffff; text-align: center; font-weight: bold; font-size: 300%; line-height: 100px; font-family: Arial; border-radius: 20px; text-decoration: none;" href="http://eepurl.com/bUDMID">Sign me up!</a>
+
+<a href="#" class="fa fa-linkedin"></a>
+<a href="#" class="fa fa-youtube"></a>
