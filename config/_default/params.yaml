@@ -120,4 +120,4 @@ publications:
 cascade:
   - _target:
       path: /publication/**
-    share: false
+    profile: false
