@@ -26,6 +26,11 @@ The *Γ-opt* (reads gamma-opt) research group is a part of the [Systems Analysis
 
 We develop research in the fields of Operations Research and Management Science, with emphasis on *Optimisation*, *Mathematical Programming*, and applications related to *Production Systems Planning* and *Supply Chain Management*.
 
-<i class="fa-brands fa-linkedin"></i>
-<a href="#" class="fa-brands fa-linkedin"></a>
-<a href="#" class="fa fa-youtube"></a>
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+<!-- Add font icons -->
+<a href="https://www.linkedin.com/company/gamma-opt/" class="fa fa-linkedin"></a>
+<a href="https://www.youtube.com/@gamma-opt9234" class="fa fa-youtube"></a>
+<a href="https://github.com/gamma-opt" class="fa fa-github"></a>
