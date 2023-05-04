@@ -1,11 +1,12 @@
 ---
-title: An example journal article
+title: A new mathematical model for the workover rig scheduling problem
 # If group member, use folder name in /content/authors
 authors:
-  - admin
-  - Robert Ford
-date: 2015-09-01
-doi: Number/Number.Numer
+  - Miguel Pérez
+  - g_fabricio-oliveira
+  - Silvio Hamacher
+date: 2016-08-01
+doi: 10.1590/0101-7438.2016.036.02.0241
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-01
@@ -17,10 +18,10 @@ publishDate: 2017-01-01
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
-publication: '*Journal of Source Themes*'
+publication: '*Pesquisa Operacional*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: One of the most important activities in the oil and gas industry is the intervention in wells for maintenance services, which is necessary to ensure the constant production of oil. These interventions are carried out by workover rigs. Thus, the Workover Rig Scheduling Problem (WRSP) consists of finding the best schedule to service the wells while considering the limited number of rigs with the objective of minimizing the total production loss. In this study, a 0-1 integer linear programming model capable of efficiently solving the WRSP with a homogeneous fleet of rigs is proposed. Computational experiments were carried out using instances based on real cases in Brazil to compare the results obtained by the proposed model with the results reported by other methods. The proposed model was capable of solving all instances considered in a reduced computational time, including the large instances for which only approximate solutions were presently known.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,7 +43,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: []
+categories: [Production and operations planning]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -58,4 +59,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: false
+
+# hides social media icons
+share: false
 ---
