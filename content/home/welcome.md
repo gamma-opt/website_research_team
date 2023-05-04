@@ -10,7 +10,7 @@ title: |
   **Γ-opt**
   
   Group of Applied Mathematical Modelling and Optimisation
-hero_media: logo.png
+hero_media: logo_large.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
