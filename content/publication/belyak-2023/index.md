@@ -31,7 +31,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: https://arxiv.org/pdf/2302.09872.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
