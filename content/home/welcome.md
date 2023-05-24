@@ -12,7 +12,7 @@ title: |
   Group of Applied Mathematical Modelling and Optimisation
 hero_media: logo_large.png
 
-username: g_fabricio_oliveira
+username: g_fabricio-oliveira
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
