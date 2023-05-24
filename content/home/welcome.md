@@ -6,19 +6,9 @@
 widget: about # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  **Γ-opt**
-  
-  Group of Applied Mathematical Modelling and Optimisation
-hero_media: logo_large.png
-
+title: gamma
 username: g_fabricio-oliveira
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-  # Add custom styles
-  css_style:
-  css_class:
+
   
 ---
 
