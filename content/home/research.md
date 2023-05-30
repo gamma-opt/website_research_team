@@ -32,7 +32,7 @@ feature:
     '
 
 ---
-/* @media applies the features only if the specific conditions are met. In our case, it is if the minimum width of the device's screen used to see the website exceeds 576px. This number has been chosen in accordance with the HTML code of the main page. The code transforms the objects to be in one column, hence, more suitable for reading from smartphone and etc, once the device screen width is smaller than 576px*/
+
 <style>
 	/* set font size for all undefined lists in the section research*/
 	#research ul {font-size: 1.0rem}
