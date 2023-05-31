@@ -77,6 +77,6 @@ user_groups:
 
 The *Γ-opt* (reads gamma-opt) research group is a part of the [Systems Analysis Laboratory](https://sal.aalto.fi/en/) in the [Department of Mathematics and Systems Analysis](https://math.aalto.fi/en/) at [Aalto University](https://www.aalto.fi/en).
 
-We develop research in the fields of Operations Research and Management Science, with emphasis on *Optimisation*, *Mathematical Programming*, and applications related to *Production Systems Planning* and *Supply Chain Management*.
-
+We develop research in the fields of Operations Research and Management Science, with emphasis on *Mathematical programming* and *Optimisation under uncertatinty*. The appliations of our research includes areas such as *Energy systems*, *Production and operations planning*, *Supply chain management*, and *Humanitarian and healthcare logistics*.
+ 
 If you are interested in positions, collaborations or exchange opportunities, please contact [Fabricio Oliveira](/author/fabricio-oliveira/).
