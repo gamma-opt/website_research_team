@@ -11,6 +11,12 @@ title: Latest News
 ---
 
 <div class="row" id = "linkedframes">
+	<div class="col-12 col-md-6">
+ 		<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7100113254911258624" height="675" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+	 </div>
+	<div class="col-12 col-md-6">
+ 		<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7075032748410761219" height="667" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+	 </div>
 	 <div class="col-12 col-md-6">
  		<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7069318085500952576" height="977" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 	 </div>
