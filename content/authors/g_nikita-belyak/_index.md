@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Doctoral Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -82,7 +82,5 @@ user_groups:
 - Doctoral Candidates
 ---
 <div style="text-align: justify">
-Nikita is PhD candidate with a background in applied mathematics and computer science. His research interests concern the development of efficient modelling and solution methods for optimization problems under uncertainty. The primary focus is on the problems aimed at increase of the renewable energy sources share in the energy systems. 
-
-He is currently engaged in the investigation and implementation of efficient strategies to combine branching and relaxation techniques for solving large-scale non-convex problems. 
+Nikita is a postdoctoral researcher with a background in applied mathematics and computer science. He defended his doctoral dissertation in 2023 that was devoted to  modelling and solution methods for renewables-driven energy markets. His current research interests concern the development of efficient optimisation methods for machine learning surrogates. Primary, neural networks and decision forests. 
 </div>

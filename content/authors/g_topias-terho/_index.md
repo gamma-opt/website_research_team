@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -54,4 +54,4 @@ user_groups:
 # - Past Members
 ---
 
-Topias Terho is a fresh master of science from the field of mathemathics and operations research, whose role in the gamma opt is a research assistant. He is interested in applications and methodological development of decision making problems with uncertainties. His main focus is the development of the decision programming framework. 
+Topias Terho is a fresh master of science from the field of mathemathics and operations research, whose role in the gamma opt is a doctoral researcher. He is interested in applications and methodological development of decision making problems with uncertainties. His main focus is the development of the decision programming framework. 
