@@ -1,4 +1,6 @@
 ---
+#this file has an extension .text so it does not appear as a publication on the website. Please do not forget to change it to .md for the actual publication
+
 title: An example journal article
 # If group member, use folder name in /content/authors
 authors:
