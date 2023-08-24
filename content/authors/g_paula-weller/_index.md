@@ -19,17 +19,17 @@ role: Doctoral Researcher
 organizations:
 - name: Aalto University
   url: "https://www.aalto.fi/en"
-- name: RWTH Aachen University
-  url: "https://www.rwth-aachen.de/cms/~a/root/?lidx=1"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Paula Weller is a visiting research assistant from RWTH Aachen University studying towards her master's degree in Mathematics.
+bio: Paula Weller is a doctoral reseracher at Aalto University investigating optimization under uncertainty. 
 
 # List each interest with a dash
 interests:
-- Robust Optimization
-- Combinatorial Optimization
-- Operations Research
+- Optimization under uncertainty
+- Stochastic optimization
+- Robust optimization
+- Bi- and multilevel optimization
+- Emergency response
 
 education:
   courses:
@@ -55,5 +55,4 @@ user_groups:
 - Research Group
 - Doctoral Candidates
 ---
-
-Paula Weller is a visiting research assistant from RWTH Aachen University where she is studying towards her master's degree in Mathematics. Her main focus is optimization, more specifically combinatorial optimization and robust optimization. She is researching robust optimization and its applications to emergency response and resilience measures. Her goal is to use mathematics to eventually save the world.
+Paula is a doctoral student researching optimization under uncertainty. Currently she is specialized in robust optimization, which is the science of preparing for the worst case when making decisions under uncertain circumstances. Her ongoing research concerns the development and application of robust optimization techniques to emergency response distribution systems, leading to faster and more efficient response plans with a smarter use of available resources.
