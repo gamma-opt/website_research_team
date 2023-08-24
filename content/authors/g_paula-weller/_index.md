@@ -28,7 +28,7 @@ interests:
 - Optimization under uncertainty
 - Stochastic optimization
 - Robust optimization
-- Bi- and multilevel optimization
+- Bi- and multi-level optimization
 - Emergency response
 
 education:
