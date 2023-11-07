@@ -72,7 +72,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Group
-- Research Assistants
+- Doctoral Candidates
 ---
 
 Helmi is a doctoral student researching decision-making under uncertainty. Her current focus is modelling decision-making in electricity and reserve markets. She has previously participated in developing the [Decision Programming](https://github.com/gamma-opt/DecisionProgramming.jl) Julia package for solving multi-stage decision problems under uncertainty. She has also utilised Decision Programming to optimise the allocation of preventative care for coronary heart disease.
