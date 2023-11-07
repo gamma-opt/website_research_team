@@ -3,7 +3,7 @@
 title: "Helmi Hankimaa"
 
 # Weight (for sorting: 1: Fabricio, 2: Postdocs, 3: Doctoral Candidates, 4: Research Assistants)
-weight: 4
+weight: 3
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -13,7 +13,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Research Assistant
+role: Doctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,16 +21,20 @@ organizations:
   url: "https://www.aalto.fi/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Helmi Hankimaa is a research assistant pursuing a master's degree in mathematics and operations research at Aalto University.
+bio: Helmi Hankimaa is a doctoral researcher at the department of Mathematics and Systems Analysis at Aalto University.
 
 # List each interest with a dash
 interests:
 - Mathematical Programming
 - Decision-making under uncertainty
-- Health care
+- Energy markets
+
 
 education:
   courses:
+  - course: MSc in Mathematics and Operation Research
+    institution: Aalto University
+    year: 2023
   - course: BSc in Mathematics and Systems Sciences
     institution: Aalto University
     year: 2021
@@ -71,6 +75,4 @@ user_groups:
 - Research Assistants
 ---
 
-My research is focused on developing the [Decision Programming](https://github.com/gamma-opt/DecisionProgramming.jl) framework for solving multi-stage decision problems under uncertainty. My current focus is implementing and testing a tighter formulation of the problem.
-
-In my previous research, I have applied Decision Programming in optimising the decision making process involved in allocating preventative care for coronary heart disease. This particular problem is challenging due to the multiple decision stages, endogenous uncertainties and the large size of the model. Now the goal is to develop Decision Programming so that problems such as this one can be solved more efficiently.
+Helmi is a doctoral student researching decision-making under uncertainty. Her current focus is modelling decision-making in electricity and reserve markets. She has previously participated in developing the [Decision Programming](https://github.com/gamma-opt/DecisionProgramming.jl) Julia package for solving multi-stage decision problems under uncertainty. She has also utilised Decision Programming to optimise the allocation of preventative care for coronary heart disease.
