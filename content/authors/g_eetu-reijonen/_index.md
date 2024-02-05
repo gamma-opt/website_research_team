@@ -51,4 +51,4 @@ user_groups:
 # - Past Members
 ---
 
-I'm a research assistant and a bachelor's student in mathematics and operations research. With Gamma-Opt, I'm continuing the work related to my bachelor's thesis as well as the work of a few others. My main focus is the development of the **Gogeta.jl** package. This Julia package makes it possible to represent machine-learning models using mathematical programming.
+I'm a research assistant and a bachelor's student in mathematics and operations research. With Gamma-Opt, I'm continuing the work related to my bachelor's thesis as well as the work of a few other bachelor's students. My main focus is the development of the [Gogeta.jl](https://github.com/gamma-opt/Gogeta.jl) package. This Julia package makes it possible to represent machine-learning models using mathematical programming.
