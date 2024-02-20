@@ -10,7 +10,7 @@ go.sum
 .hugo_build.lock
 
 #.DS_Store
-*/.DS_Store
+**/.DS_Store
 
 #Editor config
 .editorconfig
