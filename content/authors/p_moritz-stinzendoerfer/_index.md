@@ -75,6 +75,7 @@ email: ""
 user_groups:
 - Research Group
 - Visitor
+- Previous Members
 ---
 
 Moritz Stinzendörfer is a Visiting Ph.D. Student at the Department of Mathematics and Systems Analysis, and working with Fabricio Oliveira and Philine Schwiewe at Aalto University. His research project is a stochastic optimization framework for multi-stage decision problems. He is interested in last-mile logistics, discrete optimization,transportation and urban planning.
