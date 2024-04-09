@@ -69,7 +69,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Previous Members
-- Research Group
+#- Research Group
 - Research Assistants
 ---
 
