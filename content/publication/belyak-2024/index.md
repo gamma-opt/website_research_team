@@ -1,5 +1,5 @@
 ---
-title: Renewable energy expansion under taxes and subsidies: A transmission operator’s perspective
+title: 'Renewable energy expansion under taxes and subsidies: A transmission operator’s perspective'
 # If group member, use folder name in /content/authors
 authors:
   - g_nikita-belyak
