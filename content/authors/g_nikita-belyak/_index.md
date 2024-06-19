@@ -33,6 +33,9 @@ interests:
 
 education:
   courses:
+  - course: DSc in Technology 
+    institution: Aalto University (Finland)
+    year: 2018
   - course: MSc in Computational Engineering 
     institution: Lappeenranta university of technology (Finland)
     year: 2018
