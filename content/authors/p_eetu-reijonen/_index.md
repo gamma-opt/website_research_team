@@ -46,9 +46,9 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Group
+# - Research Group
 - Research Assistants
-# - Past Members
+- Previous Members
 ---
 
 I'm a research assistant and a bachelor's student in mathematics and operations research. With Gamma-Opt, I'm continuing the work related to my bachelor's thesis as well as the work of a few other bachelor's students. My main focus is the development of the [Gogeta.jl](https://github.com/gamma-opt/Gogeta.jl) package. This Julia package makes it possible to represent machine-learning models using mathematical programming.
