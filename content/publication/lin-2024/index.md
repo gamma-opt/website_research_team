@@ -6,7 +6,7 @@ authors:
   - Wenli Du
   - Liang Zhao 	
   - Feng Qian
-  - g_fabricio_oliveira
+  - g_fabricio-oliveira
 
 date: 2024-02-01
 doi: 10.1016/j.compchemeng.2023.108539

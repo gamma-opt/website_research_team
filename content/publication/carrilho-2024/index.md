@@ -3,7 +3,7 @@ title: 'A novel exact formulation for parallel machine scheduling problems'
 # If group member, use folder name in /content/authors
 authors:
   - p_luana-carrilho
-  - g_fabricio_oliveira
+  - g_fabricio-oliveira
   - Silvio Hamacher
 
 date: 2024-05-01
