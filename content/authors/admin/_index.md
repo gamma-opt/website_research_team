@@ -81,4 +81,4 @@ We develop research in the fields of Operations Research and Management Science,
 
 Follow the *updates* of our group on our [LinkedIn](https://www.linkedin.com/company/gamma-opt) page.
 
-If you are interested in positions, collaborations or exchange opportunities, please contact [Fabricio Oliveira](/author/fabricio-oliveira/).
+If you are interested in positions, collaborations or exchange opportunities, please contact [Fabricio Oliveira](/fabricio-oliveira/).
