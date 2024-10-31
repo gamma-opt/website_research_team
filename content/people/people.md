@@ -19,6 +19,8 @@ content:
     - Research Group
     # - Previous Members
 
+show_past_members: true
+
 design:
   show_interests: false
   show_role: true

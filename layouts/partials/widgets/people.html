@@ -63,6 +63,7 @@
   {{ end }}
   {{ end }}
 </div>
+{{ if $page.Params.show_past_members }}
 <div>
     Past Members:
     <ul>
@@ -71,3 +72,4 @@
         {{ end }}
     </ul>
 </div>
+{{ end }}
