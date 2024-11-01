@@ -70,8 +70,12 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Group
+# - Research Group
 - Doctoral Candidates
+- Past Members
+
+next_affiliation: Aalto University
+
 ---
 
 My research is currently focused on optimization under uncertainty, developing [Decision Programming](https://github.com/gamma-opt/DecisionProgramming.jl) for multi-stage decision problems with exogenous and endogenous uncertainties. 
