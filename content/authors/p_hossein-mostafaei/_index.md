@@ -75,6 +75,7 @@ user_groups:
 - Postdocs
 
 next_affiliation: Telia
+departure_date: 2021
 
 ---
 

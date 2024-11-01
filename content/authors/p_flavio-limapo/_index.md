@@ -56,6 +56,7 @@ user_groups:
 - Previous Members
 
 next_affiliation: PUC-Rio
+departure_year: 2024
 ---
 
 Flávio Araújo Lim-Apo is a visiting researcher from Pontifical Catholic University of Rio de Janeiro (Brazil), where he is doing a PhD in the Operations Research area.

@@ -79,6 +79,7 @@ user_groups:
 - Doctoral Candidates
 
 next_affiliation: ETH
+departure_year: 2022 
 
 ---
 <div style="text-align: justify">

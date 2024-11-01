@@ -59,6 +59,8 @@ user_groups:
 - Visitor
 
 next_affiliation: Jiangnan University
+departure_year: 2023
+
 ---
 
 Xinwei Lin is a Visiting Ph.D. Student at the Department of Mathematics and Systems Analysis, and working with Prof. Fabricio Oliveira at Aalto University. His research project is cyclic scheduling optimization of ethylene cracking furnace system (ECFS) under uncertainty. He is interested in modeling for ECFS, decision making under uncertainty, robut optimization, and efficient strategies to solve large-scale problems.

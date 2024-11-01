@@ -55,6 +55,7 @@ user_groups:
 - Previous Members
 
 next_affiliation: Karlsruher Institut für Technologie - KIT 
+departure_year: 2021
 
 ---
 
