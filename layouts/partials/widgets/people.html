@@ -67,7 +67,8 @@
 <div style="margin-top: 30px;">
     <span style="font-size: 32px; margin-bottom: 6px; display: block;">Past Members:</span>
     <ul>
-        {{ range where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Previous Members") }}
+        {{ $pms := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Previous Members") }}
+        {{ range sort $pms ".Params.departure_year" "desc" }}
         <li><strong>{{ .Title }}</strong>{{ if .Params.role }}: {{ .Params.role }} {{ end }} {{ if .Params.next_affiliation }} ({{ .Params.next_affiliation}}) {{ end }}</li>
         {{ end }}
     </ul>
