@@ -60,6 +60,7 @@ user_groups:
 - Research Assistants
 
 next_affiliation: Aalto University
+departure_year: 2020
 
 ---
 

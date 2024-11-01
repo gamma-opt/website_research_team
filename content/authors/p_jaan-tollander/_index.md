@@ -61,6 +61,7 @@ user_groups:
 - Previous Members
 
 next_affiliation: Aalto University
+departure_year: 2020
 
 ---
 

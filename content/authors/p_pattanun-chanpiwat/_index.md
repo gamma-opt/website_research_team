@@ -63,6 +63,7 @@ user_groups:
 - Previous Members
 
 next_affiliation: Chulachomklao Royal Military Academy
+departure_year: 2023
 
 ---
 

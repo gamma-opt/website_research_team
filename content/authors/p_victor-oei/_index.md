@@ -71,6 +71,7 @@ user_groups:
 - Research Assistants
 
 next_affiliation: University of Stuttgart
+departure_year: 2022
 
 ---
 
