@@ -71,6 +71,10 @@ user_groups:
 - Previous Members
 # - Research Group
 - Research Assistants
+
+next_affiliation: Aalto University
+
+
 ---
 
 I am a research assistant with a background in mathematics and systems sciences, currently pursuing a master's degree in Machine Learning, Data Science and AI at Aalto University. 

@@ -52,8 +52,8 @@ education:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Group
-- Visitors
-#- Past Members
+# - Visitors
+- Past Members
 ---
 
 Flávio Araújo Lim-Apo is a visiting researcher from Pontifical Catholic University of Rio de Janeiro (Brazil), where he is doing a PhD in the Operations Research area.

@@ -73,6 +73,9 @@ email: ""
 user_groups:
 - Previous Members
 - Postdocs
+
+next_affiliation: Telia
+
 ---
 
 Hossein received his Ph.D. in Operations Research in 2016. His research interests lie at the interface between Process Systems Engineering and Operations Research. He is currently a Postdoctoral Research Fellow at  Department of Mathematics and Systems Analysis, Aalto University, working with Prof. Fabrico Oliveira on production planning and scheduling optimization under uncertainty. In 2016, he visited Dr. Pedro M. Castro from the university of Lisbon and worked on Generalized Disjunctive Programming for scheduling problems and on the global optimization of nonconvex bilinear problems. During 2018-2019, he worked as a Postdoc Fellow (at the Department of Chemical and Metallurgical Engineering, Aalto University) with Prof. Iiro Harjunkoski on combining big data platforms, machine learning and data analytics methodologies with process planning and scheduling optimization technologies.

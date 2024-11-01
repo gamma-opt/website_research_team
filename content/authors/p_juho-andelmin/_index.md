@@ -83,6 +83,8 @@ email: ""
 user_groups:
 - Doctoral Candidates
 - Previous Members
+
+next_affiliation: Aalto University
 ---
 
 <div style="text-align: justify">

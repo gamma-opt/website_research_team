@@ -59,6 +59,9 @@ email: ""
 user_groups:
 - Research Assistants
 - Previous Members
+
+next_affiliation: Aalto University
+
 ---
 
 Jaan Tollander de Balsch is a computer scientist with a background in applied mathematics, who focuses on algorithms, computation, and mathematical modeling. His interests include scientific writing, software engineering, and artificial intelligence. Professionally, he creates practical, well-documented, and tested software packages for solving mathematical and computational problems using Julia and Python programming languages. Apart from work and academics, he is passionate about health, athletics, productivity, and saunas.

@@ -69,6 +69,9 @@ email: ""
 user_groups:
 - Previous Members
 - Research Assistants
+
+next_affiliation: University of Stuttgart
+
 ---
 
 My research is focused on developing an Energy System Model of Northern Europe using SpineOpt.

@@ -70,6 +70,9 @@ email: ""
 user_groups:
 - Previous Members
 - Research Assistants
+
+next_affiliation: Aalto University
+
 ---
 
 Emilia Vuola is a research assistant majoring in Operations research in Aalto University. In addition, she is studying towards a degree in Economics.

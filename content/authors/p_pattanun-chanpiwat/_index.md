@@ -61,6 +61,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Previous Members
+
+next_affiliation: Chulachomklao Royal Military Academy
+
 ---
 
 

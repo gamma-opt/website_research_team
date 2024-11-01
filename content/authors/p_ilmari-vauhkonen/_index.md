@@ -58,6 +58,9 @@ email: ""
 user_groups:
 - Previous Members
 - Research Assistants
+
+next_affiliation: Aalto University
+
 ---
 
 Ilmari Vauhkonen is an operations research student whose interests comprise mathematical modelling, optimisation and stochastics. He is also interested in applying these frameworks to various real-life problems, ranging from energy systems, healthcare and supply chain management to financial engineering.

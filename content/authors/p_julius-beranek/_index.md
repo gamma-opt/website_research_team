@@ -53,6 +53,9 @@ interests:
 user_groups:
 - Research Assistant
 - Previous Members
+
+next_affiliation: Karlsruher Institut für Technologie - KIT 
+
 ---
 
 Julius Beranek is a research assistant majoring in Sustainable Energy Systems and Markets at Aalto University with a background in International Energy Economics. His interests lie in the modelling and optimization of energy systems with a focus on the integration of renewable energy systems into the power grid.

@@ -56,6 +56,8 @@ user_groups:
 # - Research Group
 - Visitors
 - Past Members
+
+next_affiliation: Universidade Federal de São Carlos
 ---
 
 Tarley Mansur Fantazzini is a visiting researcher from Federal University of Sao Carlos (Brazil), where he is doing a PhD in the Operations Research area.

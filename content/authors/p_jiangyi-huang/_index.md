@@ -77,6 +77,9 @@ email: ""
 user_groups:
 - Previous Members
 - Doctoral Candidates
+
+next_affiliation: ETH
+
 ---
 <div style="text-align: justify">
 Jiangyi Huang is a part-time PhD candidate with a background in Energy Science and Environmental Science. He also works as a Research Scientist at Technical Research Centre of Finland (VTT). Jiangyi is interested in mathematical problems arising from energy systems modelling, optimisation and analysis. His expertise includes techno-economic modelling on energy systems and developing advanced modelling tools. Jiangyi is experienced in model formulation, programming and data processing (Python and Julia). He has participated in several research projects regarding model development and system analysis for the sustainable transitions of energy systems at VTT.
