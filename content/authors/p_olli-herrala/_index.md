@@ -72,7 +72,7 @@ email: ""
 user_groups:
 # - Research Group
 - Doctoral Candidates
-- Past Members
+- Previous Members
 
 next_affiliation: Aalto University
 
