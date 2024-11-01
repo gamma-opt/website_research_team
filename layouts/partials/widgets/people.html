@@ -64,11 +64,11 @@
   {{ end }}
 </div>
 {{ if $page.Params.show_past_members }}
-<div>
-    Past Members:
+<div style="margin-top: 30px;">
+    <span style="font-size: 32px; margin-bottom: 6px; display: block;">Past Members:</span>
     <ul>
         {{ range where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice "Previous Members") }}
-        <li><em>{{ .Title }}</em>{{ if .Params.role }}: {{ .Params.role }} {{ end }} {{ if .Params.next_affiliation }} -> {{ .Params.next_affiliation}} {{ end }}</li>
+        <li><strong>{{ .Title }}</strong>{{ if .Params.role }}: {{ .Params.role }} {{ end }} {{ if .Params.next_affiliation }} ({{ .Params.next_affiliation}}) {{ end }}</li>
         {{ end }}
     </ul>
 </div>
