@@ -54,10 +54,15 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-# - Previous Members
-- Research Group
+- Previous Members
+#- Research Group
 - Visitors
+
+next_affiliation: Tecgraf 
+departure_year: 2024
+
 ---
+
 
 Luana Carrilho is a visiting researcher from Pontifical Catholic University of Rio de Janeiro (Brazil), where he is doing a PhD in the Operations Research area.
 

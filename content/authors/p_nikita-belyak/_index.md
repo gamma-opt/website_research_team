@@ -81,9 +81,13 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Group
+# - Research Group
+- Previous members
 - Doctoral Candidates
+
+next_affiliation: Afry
+departure_year: 2024
+
 ---
-<div style="text-align: justify">
+
 Nikita is a postdoctoral researcher with a background in applied mathematics and computer science. He defended his doctoral dissertation in 2023 that was devoted to  modelling and solution methods for renewables-driven energy markets. His current research interests concern the development of efficient optimisation methods for machine learning surrogates. Primary, neural networks and decision forests. 
-</div>
