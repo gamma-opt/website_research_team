@@ -50,9 +50,14 @@ education:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Group
-- Research Assistants
-# - Past Members
+# - Research Group
+# - Research Assistants
+- Previous Members
+
+next_affiliation: Relevant Digital
+departure_year: 2025
+
+
 ---
 
 Hi! I have just finished my Master's thesis about community recovery, variational inference, and stochastic block models. Now I am helping with making a new course on optimization.
