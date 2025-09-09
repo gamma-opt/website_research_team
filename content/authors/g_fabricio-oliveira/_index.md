@@ -13,24 +13,25 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Associate Professor of Operational Research
+role: Associate Professor of Operations Research
 
 # Organizations/Affiliations
 organizations:
-- name: Aalto University
+- name: Technical University of Denmark (DTU)
   url: "https://math.aalto.fi/~fabricio"
 
+- name: Aalto University
+  url: "https://https://orbit.dtu.dk/en/persons/fabricio-oliveira"
+
 # Short bio (displayed in user profile at end of posts)
-bio: "Fabricio Oliveira is an Associate Professor of Operational Research in the Department of Mathematics and Systems Analysis."
+bio: "Fabricio Oliveira is an Associate Professor of Operations Research at DTU Management. He also holds a position of Adjunct Professor in the Department of Mathematics and Systems Analysis at Aalto University"
 
 # List each interest with a dash
 interests:
-- Operational research
 - Optimisation
 - Mathematical programming
 - Decision-making under uncertainty
-- Stochastic programming and robust optimisation
-- Decomposition methods
+- Stochastic and robust optimisation
 
 education:
   courses:
@@ -48,10 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:fabricio.oliveira@aalto.fi'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fabsoliveira42
+  link: 'mailto:fabol@dtu.dk'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.fi/citations?user=5-w0vrkAAAAJ&hl=en
@@ -65,7 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fabricio.oliveira@aalto.fi"
+email: "fabol@dtu.dk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
