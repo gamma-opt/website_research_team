@@ -8,7 +8,7 @@ summary: '
 - Summary: The project will further develop the decision programming framework as a methodology for modelling and solving multi-stage decision problems under uncertainty'
 
 tags:
-  - current
+  - previous
 date: 2020-09-01
 external_link: https://akareport.aka.fi/ibi_apps/WFServlet?IBIF_ex=x_hakkuvaus2&CLICKED_ON=&HAKNRO1=332180&UILANG=en&TULOSTE=HTML
 ---

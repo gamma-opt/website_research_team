@@ -2,7 +2,7 @@
 title: A decomposition strategy for decision problems with endogenous uncertainty using mixed-integer programming
 # If group member, use folder name in /content/authors
 authors:
-  - g_olli-herrala
+  - p_olli-herrala
   - Tommi Ekholm
   - g_fabricio-oliveira
 
