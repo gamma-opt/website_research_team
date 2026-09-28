@@ -2,11 +2,11 @@
 title: 'Renewable energy expansion under taxes and subsidies: A transmission operator’s perspective'
 # If group member, use folder name in /content/authors
 authors:
-  - g_nikita-belyak
+  - p_nikita-belyak
   - Steven A. Gabriel
   - Nikolay Khabarov
   - g_fabricio-oliveira
-date: 2023-02-27
+date: 2024-04-01
 doi: 10.1016/j.jclepro.2024.141955
 
 # Schedule page publish date (NOT publication's date).

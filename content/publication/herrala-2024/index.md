@@ -2,9 +2,9 @@
 title: 'A novel strong duality-based reformulation for trilevel infrastructure models in energy systems development'
 # If group member, use folder name in /content/authors
 authors:
-  - p_Olli-Herrala
+  - p_olli-herrala
   - Steven A. Gabriel
-  - g_Fabricio-Oliveira 	
+  - g_fabricio-oliveira
   - Tommi Ekholm
 
 date: 2024-07-01

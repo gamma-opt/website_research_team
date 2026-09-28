@@ -1,10 +1,10 @@
 ---
-title: 'A novel strong duality-based reformulation for trilevel infrastructure models in energy systems development'
+title: 'Employing federated learning for training autonomous HVAC systems'
 # If group member, use folder name in /content/authors
 authors:
   - p_fredrik-hagstrom
   - Vikas Garg
-  - g_Fabricio-Oliveira 	
+  - g_fabricio-oliveira
 
 date: 2025-08-01
 doi: 10.1016/j.enbuild.2025.115761

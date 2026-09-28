@@ -4,7 +4,7 @@ title: Robust Optimization for Scheduling and Lot-sizing of a Single Machine wit
 authors:
   - p_hossein-mostafaei
   - g_fabricio-oliveira
-date: 2015-09-01
+date: 2021-01-01
 doi: 10.1016/B978-0-323-88506-5.50269-2
 
 # Schedule page publish date (NOT publication's date).

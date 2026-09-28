@@ -2,7 +2,7 @@
 title: Decision programming for mixed-integer multi-stage optimization under uncertainty
 # If group member, use folder name in /content/authors
 authors:
-  - Ahti Salo 
+  - Ahti Salo
   - p_juho-andelmin
   - g_fabricio-oliveira
 date: 2022-06-01

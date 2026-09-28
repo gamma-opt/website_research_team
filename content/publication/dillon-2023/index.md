@@ -2,7 +2,7 @@
 title: 'Supporting platelet inventory management decisions: What is the effect of extending platelets’ shelf life?'
 # If group member, use folder name in /content/authors
 authors:
-  - Mary Dillon 
+  - Mary Dillon
   - p_ilmari-vauhkonen
   - Mikko Arvas
   - Jarkko Ihalainen

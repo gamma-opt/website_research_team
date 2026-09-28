@@ -5,7 +5,7 @@ title: An enhanced L-Shaped method for optimizing periodic-review inventory cont
 authors:
   - Felipe Silva Placido dos Santos
   - g_fabricio-oliveira
-date: 2015-09-01
+date: 2019-06-01
 doi: 10.1016/j.ejor.2018.11.053
 
 # Schedule page publish date (NOT publication's date).

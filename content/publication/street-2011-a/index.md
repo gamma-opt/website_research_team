@@ -43,8 +43,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: [Modelling decision-making and uncertainty
-, Energy systems]
+categories: [Modelling decision-making and uncertainty, Energy systems]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

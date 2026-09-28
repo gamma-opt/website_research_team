@@ -6,7 +6,7 @@ authors:
   - Andréa Nunes Carvalho
   - Luiz Felipe Scavarda
   - g_fabricio-oliveira
-date: 2015-09-01
+date: 2017-09-01
 doi: 10.1590/0103-6513.001417
 
 # Schedule page publish date (NOT publication's date).

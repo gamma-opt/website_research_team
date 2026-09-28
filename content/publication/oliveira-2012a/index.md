@@ -4,8 +4,8 @@ title: 'Optimization of the petroleum product supply chain under uncertainty: A 
 authors:
   - g_fabricio-oliveira
   - Silvio Hamacher
-date: 2012-12-01
-doi: 10.1021/ie2013339 
+date: 2012-03-01
+doi: 10.1021/ie2013339
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-01

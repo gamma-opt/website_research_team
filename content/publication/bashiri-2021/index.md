@@ -6,7 +6,7 @@ authors:
   - Erfaneh Nikzad
   - Andrew Eberhard
   - John Hearne
-  - g_fabricio-oliveira 
+  - g_fabricio-oliveira
 date: 2021-06-05
 doi: 10.1016/j.omega.2021.102480
 

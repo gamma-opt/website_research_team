@@ -19,7 +19,7 @@ publishDate: 2017-01-01
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
-publication: '*Journal of Source Themes*'
+publication: '*European Journal of Operational Research*'
 publication_short: ''
 
 abstract: Operational decisions for crude oil scheduling activities are determined
@@ -49,8 +49,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: [Modelling decision-making and uncertainty, Production and operations planning
-]
+categories: [Modelling decision-making and uncertainty, Production and operations planning]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

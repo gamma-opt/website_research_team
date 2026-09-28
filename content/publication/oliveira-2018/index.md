@@ -45,7 +45,7 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: Efficient formulation and solution methods]
+categories: [Efficient formulation and solution methods]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

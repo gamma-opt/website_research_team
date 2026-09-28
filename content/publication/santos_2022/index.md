@@ -2,7 +2,7 @@
 title: 'A data-driven optimization model for the workover rig scheduling problem: Case study in an oil company'
 # If group member, use folder name in /content/authors
 authors:
-  - p_iuri-santos 
+  - p_iuri-santos
   - Silvio Hamacher
   - g_fabricio-oliveira
 date: 2022-12-06

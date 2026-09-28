@@ -1,5 +1,5 @@
 ---
-title: 'Renewable energy expansion under taxes and subsidies: A transmission operator’s perspective'
+title: 'A novel dual-decomposition method for non-convex two-stage stochastic mixed-integer quadratically constrained quadratic problems'
 # If group member, use folder name in /content/authors
 authors:
   - p_nikita-belyak

@@ -1,13 +1,13 @@
 ---
-title: 'Risk-averse decision strategies for influence diagrams using rooted junction trees'
+title: 'Solving decision problems with endogenous uncertainty and conditional information revelation using influence diagrams'
 # If group member, use folder name in /content/authors
 authors:
-  - p_Olli-Herrala
-  - g_Topias-Terho
-  - g_Fabricio-Oliveira 	
+  - p_olli-herrala
+  - Tommi Ekholm
+  - g_fabricio-oliveira
 
-date: 2025-07-01
-doi: 10.1016/j.orl.2025.107308
+date: 2025-09-01
+doi: 10.1007/s10287-025-00543-4
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-01
@@ -19,10 +19,10 @@ publishDate: 2017-01-01
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
-publication: '*Operations Research Letters*'
-publication_short: 'ORL'
+publication: '*Computational Management Science*'
+publication_short: 'CMS'
 
-abstract: This paper presents how a mixed-integer programming (MIP) formulation for influence diagrams that is based on their gradual rooted junction tree representation can be extended to incorporate more general modelling features, such as risk considerations and problem-specific constraints. We propose two algorithms that enable our reformulations by performing targeted modifications either to the underlying influence diagram or to the associated gradual rooted junction tree representation. We present computational experiments highlighting the superior computational performance of our reformulation against an alternative state-of-the-art MIP formulation for influence diagrams that, by default, can accommodate those modelling features.
+abstract: Mathematical programming formulations of influence diagrams can bridge the gap between representing and solving decision problems. However, they suffer from both modeling and computational limitations. Aiming to address modeling limitations, we show how to incorporate conditionally observed information within the mathematical programming representation of the influence diagram. Multi-stage stochastic programming models use conditional non-anticipativity constraints to represent such uncertainties, and we show how such constraints can be incorporated into the influence diagram formulations. This allows us to consider the two main types of endogenous uncertainty simultaneously, namely decision-dependent information structure and decision-dependent probability distribution. Additionally, we apply a subdiagram decomposition to improve both computational efficiency and modeling capabilities. Under suitable conditions, this decomposition allows for considering continuous decision variables arising from, e.g., investment sizing decisions, leading to better solutions than a discretization of the continuous decisions. Finally, our proposed framework is illustrated with a large-scale cost-benefit problem regarding climate change mitigation, simultaneously considering technological research and development, and optimal emission trajectories.
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -33,7 +33,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: 'https://doi.org/10.1016/j.orl.2025.107308'
+url_pdf: 'https://doi.org/10.1007/s10287-025-00543-4'
 url_code: ''
 url_dataset: ''
 url_poster: ''

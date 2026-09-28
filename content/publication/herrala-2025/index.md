@@ -2,9 +2,9 @@
 title: 'Risk-averse decision strategies for influence diagrams using rooted junction trees'
 # If group member, use folder name in /content/authors
 authors:
-  - p_Olli-Herrala
-  - g_Topias-Terho
-  - g_Fabricio-Oliveira 	
+  - p_olli-herrala
+  - g_topias-terho
+  - g_fabricio-oliveira
 
 date: 2025-07-01
 doi: 10.1016/j.orl.2025.107308

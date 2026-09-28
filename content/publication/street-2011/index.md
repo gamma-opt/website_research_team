@@ -3,7 +3,7 @@ title: 'Contingency-constrained unit commitment with n-K security criterion: A r
 # If group member, use folder name in /content/authors
 authors:
   - Alexandre Street
-  - g_fabrício-oliveira
+  - g_fabricio-oliveira
   - José M. Arroyo
 date: 2011-08-01
 doi: 10.1109/TPWRS.2010.2087367

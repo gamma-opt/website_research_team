@@ -2,9 +2,9 @@
 title: 'Optimal cyclic scheduling of ethylene plants in backup furnace mode with separation capacity constraints'
 # If group member, use folder name in /content/authors
 authors:
-  - p_xinwei_liu
+  - p_xinwei_lin
   - Wenli Du
-  - Liang Zhao 	
+  - Liang Zhao
   - Feng Qian
   - g_fabricio-oliveira
 
