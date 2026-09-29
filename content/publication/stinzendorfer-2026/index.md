@@ -1,14 +1,12 @@
 ---
-title: 'A novel strong duality-based reformulation for trilevel infrastructure models in energy systems development'
+title: 'A Robust Optimization Approach to Flow Decomposition'
 # If group member, use folder name in /content/authors
 authors:
-  - p_olli-herrala
-  - Steven A. Gabriel
+  - p_moritz-stinzendoerfer
+  - Philine Schiewe
   - g_fabricio-oliveira
-  - Tommi Ekholm
-
-date: 2025-03-01
-doi: 10.1080/01605682.2024.2365807
+date: 2026-05-29
+doi: 10.1007/s43069-026-00649-8
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2017-01-01
@@ -20,10 +18,10 @@ publishDate: 2017-01-01
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name. Notice * * on title. # Publication name and optional abbreviated publication name. Quote marks needed for Markdown typesetting
-publication: '*Journal of the Operational Research Society*'
-publication_short: 'JORS'
+publication: '*Operations Research Forum*'
+publication_short: ''
 
-abstract: We explore the class of trilevel equilibrium problems with a focus on energy-environmental applications and present a novel single-level reformulation for such problems, based on strong duality. To the best of our knowledge, only one alternative single-level reformulation for trilevel problems exists. This reformulation uses a representation of the bottom-level solution set, whereas we propose a reformulation based on strong duality. Our novel reformulation is compared to this existing formulation, discussing both model sizes and computational performance. In particular, we apply this trilevel framework to a power market model, exploring the possibilities of an international policymaker in reducing emissions of the system. Using the proposed approach, we are able to obtain globally optimal solutions for a five-node case study representing the Nordic countries and assess the impact of a carbon tax on the electricity production portfolio..
+abstract: 'In this paper, we generalize the minimum flow decomposition problem (MFD) to incorporate uncertain edge capacities and tackle it from the perspective of robust optimization. In the classical flow decomposition problem, a network flow is decomposed into a set of weighted paths from a fixed source node to a fixed sink node that precisely represents the flow distribution across all edges. MFD problems permeate multiple important applications, including reconstructing genomic sequences to representing the flow of goods or passengers in distribution networks. Inspired by these applications, we generalize the MFD to an inexact case with bounded flow values, provide a detailed analysis, and explore different variants that are solvable in polynomial time. Moreover, we introduce the concept of robust flow decomposition by incorporating uncertain bounds and applying different robustness concepts to handle the uncertainty. Finally, we present two different adjustably robust problem formulations and perform computational experiments illustrating the benefit of adjustability.'
 
 # Summary. An optional shortened abstract.
 summary:  
@@ -34,7 +32,7 @@ tags:
 featured: false
 
 # links:
-url_pdf: 'https://doi.org/10.1080/01605682.2024.2365807'
+url_pdf: 'https://doi.org/10.1007/s43069-026-00649-8'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -45,14 +43,14 @@ url_video: ''
 
 # Categories
 #  These asociate the publications with the icons representing reearch topics and application areas
-categories: [Efficient formulation and solution methods, Energy systems]
+categories: [Modelling decision-making and uncertainty, Efficient formulation and solution methods]
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [2022-AF-Easy_DR]
+projects: []
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
